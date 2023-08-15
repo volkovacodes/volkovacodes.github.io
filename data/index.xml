@@ -1,66 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Data | Kate Volkova</title>
+    <link>https://volkovacodes.github.io/data/</link>
+      <atom:link href="https://volkovacodes.github.io/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <url>https://volkovacodes.github.io/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://volkovacodes.github.io/data/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
+      <title>Blockholder Ownership</title>
+      <link>https://volkovacodes.github.io/data/blocks/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://volkovacodes.github.io/data/blocks/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.dropbox.com/s/pim9z3fyz1x5ag9/blockholders.csv?dl=0&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p&gt;
+The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2021 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).
+&lt;p&gt;The data is described in the paper  &lt;a href=&#34;https://volkovacodes.github.io/research/blockholders/&#34;&gt;&amp;ldquo;Is Blockholder Diversity Detrimental?&amp;rdquo;&lt;/a&gt;  by Miriam Schwartz-Ziv and Ekaterina Volkova. This &lt;a href=&#34;https://github.com/volkovacodes/Block_Codes&#34;&gt;GitHub&lt;/a&gt; page provides the R-scripts used to collect, parse, and assemble the dataset.&lt;/p&gt;
+&lt;p&gt;
+The data covers all firms listed on SEC EDGAR, including those in CRSP/Compustat. Therefore, if a specific firm-year observation listed in CRSP/Compustat is not found in our publicly available blockholder database, it indicates that the observation does not have any blockholders.
+&lt;p&gt;
+This dataset is also avaliable through WRDS: 
+&lt;a href=&#34;https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/&#34;&gt;https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/&lt;/a&gt;
+&lt;p&gt;Variable definition:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;blockholder_CIK – Blockholder CIK code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;blockholder_name – Blockholder name&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;company_CIK – Company CIK code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;company_name – Company name&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;year – Year of filing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;position – % of shares held at the end of the calendar year&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;files_13F – Indicator whether blockholders files 13F&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Last update: January 2023&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Regulatory Fragmentation</title>
+      <link>https://volkovacodes.github.io/data/fragmentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volkovacodes.github.io/data/fragmentation/</guid>
+      <description>&lt;p&gt;&lt;u&gt;&lt;h1&gt;&lt;p style=&#34;font-size:50px;&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/mw23g61s2p9xhjs/companyyear_measures.csv?dl=0&#34;&gt;DOWNLOAD&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/h1&gt;&lt;/u&gt;
+&lt;p&gt;We use Federal Register, the daily journal of US regulators to create measure of regulatory fragmentation. The main variable, &lt;b&gt;&lt;i&gt;Regulatory_Fragmentation&lt;/i&gt;&lt;/b&gt;, reflects the variety of agencies company is exposed to in a given year. Higher values of this variable suggest that a company is regulated by more agencies. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Two additional variables, &lt;b&gt;&lt;i&gt;Topic_Dispersion&lt;/i&gt;&lt;/b&gt; and &lt;b&gt;&lt;i&gt;Regulation_Quantity&lt;/i&gt;&lt;/b&gt;, show the dispersion of topics raised by the company in their annual reports and the amount of the relevant regulations.
+We describe the construction of this data in more details in the paper &lt;a href=&#34;https://volkovacodes.github.io/research/fragmentation/&#34;&gt;&amp;ldquo;Regulatory Fragmentation&amp;rdquo;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Last update: 2020&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity | Kate Volkova</title>
+    <link>https://volkovacodes.github.io/tag/productivity/</link>
+      <atom:link href="https://volkovacodes.github.io/tag/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>productivity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://volkovacodes.github.io/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>productivity</title>
+      <link>https://volkovacodes.github.io/tag/productivity/</link>
+    </image>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://volkovacodes.github.io/research/fragmentation/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://volkovacodes.github.io/research/fragmentation/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Revise and Resubmit, The Journal of Finance&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://volkovacodes.github.io/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:center; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Best paper award at FMARC conference &lt;/p&gt; 
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; Regulatory fragmentation occurs when multiple federal agencies oversee a single issue. Using the full text of the Federal Register, the government’s official daily publication, we provide the first systematic evidence on the extent and costs of regulatory fragmentation. Fragmentation increases the firm’s costs while lowering its productivity, profitability, and growth. Moreover, it deters entry into an industry and increases the propensity of small firms to exit. These effects arise from redundancy and, more prominently, from inconsistencies between government agencies. Our results uncover a new source of regulatory burden, and we show that agency issues among regulators contribute to this burden.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

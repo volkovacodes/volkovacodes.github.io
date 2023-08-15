@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fragmentation | Kate Volkova</title>
+    <link>https://volkovacodes.github.io/tag/fragmentation/</link>
+      <atom:link href="https://volkovacodes.github.io/tag/fragmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fragmentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://volkovacodes.github.io/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>Fragmentation</title>
+      <link>https://volkovacodes.github.io/tag/fragmentation/</link>
+    </image>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://volkovacodes.github.io/data/fragmentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://volkovacodes.github.io/data/fragmentation/</guid>
+      <description>&lt;p&gt;&lt;u&gt;&lt;h1&gt;&lt;p style=&#34;font-size:50px;&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/mw23g61s2p9xhjs/companyyear_measures.csv?dl=0&#34;&gt;DOWNLOAD&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/h1&gt;&lt;/u&gt;
+&lt;p&gt;We use Federal Register, the daily journal of US regulators to create measure of regulatory fragmentation. The main variable, &lt;b&gt;&lt;i&gt;Regulatory_Fragmentation&lt;/i&gt;&lt;/b&gt;, reflects the variety of agencies company is exposed to in a given year. Higher values of this variable suggest that a company is regulated by more agencies. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Two additional variables, &lt;b&gt;&lt;i&gt;Topic_Dispersion&lt;/i&gt;&lt;/b&gt; and &lt;b&gt;&lt;i&gt;Regulation_Quantity&lt;/i&gt;&lt;/b&gt;, show the dispersion of topics raised by the company in their annual reports and the amount of the relevant regulations.
+We describe the construction of this data in more details in the paper &lt;a href=&#34;https://volkovacodes.github.io/research/fragmentation/&#34;&gt;&amp;ldquo;Regulatory Fragmentation&amp;rdquo;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Last update: 2020&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
