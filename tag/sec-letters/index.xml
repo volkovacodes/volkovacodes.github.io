@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SEC Letters | Kate Volkova</title>
+    <title>SEC letters | Kate Volkova</title>
     <link>https://volkovacodes.github.io/tag/sec-letters/</link>
       <atom:link href="https://volkovacodes.github.io/tag/sec-letters/index.xml" rel="self" type="application/rss+xml" />
-    <description>SEC Letters</description>
+    <description>SEC letters</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://volkovacodes.github.io/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
-      <title>SEC Letters</title>
+      <title>SEC letters</title>
       <link>https://volkovacodes.github.io/tag/sec-letters/</link>
     </image>
     
