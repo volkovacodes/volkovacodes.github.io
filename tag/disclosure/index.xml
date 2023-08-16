@@ -17,22 +17,11 @@
       <link>https://volkovacodes.github.io/research/sec_letters/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://volkovacodes.github.io/research/sec_letters/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    WE CAN PUT ABSTRACT IN HERE
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;hr&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Review of Financial Studies, 2020&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; The regulator plays an active role in the IPO process via its pre-IPO communications with firms, writing 3.8 comment letters per company. To evaluate the regulator’s input, we analyze these communications between the SEC and firms using LDA-analysis and KL-divergence. Main topics of SEC concerns map closely into the regulator’s stated mandate: companies increase prospectus disclosures within precise topics of SEC concern. Questions related to revenue recognition are most informative about company valuation. These concerns are not independently uncovered by investors. This dynamic process of information disclosure results in increased transparency, but at a cost of delays in going public.
+&lt;/p&gt;
 </description>
     </item>
     
