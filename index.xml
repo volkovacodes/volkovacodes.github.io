@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kate Volkova</title>
-    <link>https://volkovacodes.github.io/</link>
-      <atom:link href="https://volkovacodes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evolkova.info/</link>
+      <atom:link href="https://evolkova.info/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate Volkova</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://volkovacodes.github.io/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <url>https://evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
       <title>Kate Volkova</title>
-      <link>https://volkovacodes.github.io/</link>
+      <link>https://evolkova.info/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://volkovacodes.github.io/talk/example-talk/</link>
+      <link>https://evolkova.info/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/talk/example-talk/</guid>
+      <guid>https://evolkova.info/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Antitrust Enforcement Increases Economic Activity</title>
-      <link>https://volkovacodes.github.io/research/antitrust/</link>
+      <link>https://evolkova.info/research/antitrust/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/antitrust/</guid>
+      <guid>https://evolkova.info/research/antitrust/</guid>
       <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;Presented at EFA, AEA and NBER SI, Boston College, the Center for Equitable Growth, Columbia University, the Department of Justice Antitrust Division, Emory University, the Entrepreneurship Junior Group Online Seminars, the Labor and Finance Group Conference, NYU WARPFIN Conference, the Stigler Center for the Study of the Economy and the State, the Stigler Center 2023 Antitrust and Competition Conference, the University of Melbourne, and the University of Warwick &lt;/p&gt;
 &lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
     &lt;strong&gt;Abstract:&lt;/strong&gt; We hand-collect and standardize information describing all 3,055 antitrust lawsuits brought by the Department of Justice (DOJ) between 1971 and 2018. Using restricted establishment-level microdata from the U.S. Census, we compare the economic outcomes of a non-tradable industry in states targeted by DOJ antitrust lawsuits to outcomes of the same industry in other states that were not targeted. We document that DOJ antitrust enforcement actions permanently increase employment by 5.4% and business formation by 4.1%. Using an event-study design, we find (1) a sharp increase in payroll that exceeds the increase in employment, meaning that DOJ antitrust enforcement increases average wages, (2) an economically smaller increase in sales that is statistically insignificant, and (3) a precise increase in the labor share. While we cannot separately measure the quantity and price of output, the increase in production inputs (employment), together with a proportionally smaller increase in sales, strongly suggests that these DOJ antitrust enforcement actions increase the quantity of output and simultaneously decrease the price of output. Our results show that government antitrust enforcement leads to persistently higher levels of economic activity in targeted industries.
@@ -69,11 +69,11 @@
     
     <item>
       <title>Regulatory Fragmentation</title>
-      <link>https://volkovacodes.github.io/research/fragmentation/</link>
+      <link>https://evolkova.info/research/fragmentation/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/fragmentation/</guid>
+      <guid>https://evolkova.info/research/fragmentation/</guid>
       <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Revise and Resubmit, The Journal of Finance&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://volkovacodes.github.io/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://evolkova.info/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:center; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Best paper award at FMARC conference &lt;/p&gt; 
 &lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
 &lt;/p&gt;
@@ -85,11 +85,11 @@
     
     <item>
       <title>Is Blockholder Diversity Detrimental?</title>
-      <link>https://volkovacodes.github.io/research/blockholders/</link>
+      <link>https://evolkova.info/research/blockholders/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/blockholders/</guid>
+      <guid>https://evolkova.info/research/blockholders/</guid>
       <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Revise and Resubmit, Management Science&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://volkovacodes.github.io/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://evolkova.info/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:10px;&#34;&gt;
     Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney
 &lt;/p&gt;
@@ -125,7 +125,7 @@
                /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp 400w,
                /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_b20e4231093dd28b2598d0992c70e6d3.webp 760w,
                /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://volkovacodes.github.io/research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp&#34;
+               src=&#34;https://evolkova.info/research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp&#34;
                width=&#34;574&#34;
                height=&#34;704&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,9 +136,9 @@
     
     <item>
       <title>Blockholder Ownership Dataset</title>
-      <link>https://volkovacodes.github.io/data/blocks/</link>
+      <link>https://evolkova.info/data/blocks/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/data/blocks/</guid>
+      <guid>https://evolkova.info/data/blocks/</guid>
       <description>&lt;div style=&#34;text-align: center&#34;&gt;
     &lt;a href=&#34;https://www.dropbox.com/s/pim9z3fyz1x5ag9/blockholders.csv?dl=0&#34; style=&#34;text-decoration: none;&#34;&gt;
         &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
@@ -156,7 +156,7 @@
   &lt;h2&gt;About the Dataset&lt;/h2&gt;
   &lt;p&gt;The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2021 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).&lt;/p&gt;
   &lt;h3&gt;Publication&lt;/h3&gt;
-  &lt;p&gt;The data is described in the paper &lt;a href=&#34;https://volkovacodes.github.io/research/blockholders/&#34;&gt;&#34;Is Blockholder Diversity Detrimental?&#34;&lt;/a&gt; by Miriam Schwartz-Ziv and Ekaterina Volkova. This &lt;a href=&#34;https://github.com/volkovacodes/Block_Codes&#34;&gt;GitHub&lt;/a&gt; page provides the R-scripts used to collect, parse, and assemble the dataset.&lt;/p&gt;
+  &lt;p&gt;The data is described in the paper &lt;a href=&#34;https://evolkova.info/research/blockholders/&#34;&gt;&#34;Is Blockholder Diversity Detrimental?&#34;&lt;/a&gt; by Miriam Schwartz-Ziv and Ekaterina Volkova. This &lt;a href=&#34;https://github.com/volkovacodes/Block_Codes&#34;&gt;GitHub&lt;/a&gt; page provides the R-scripts used to collect, parse, and assemble the dataset.&lt;/p&gt;
   &lt;h3&gt;Scope&lt;/h3&gt;
   &lt;p&gt;The data covers all firms listed on SEC EDGAR, including those in CRSP/Compustat. Therefore, if a specific firm-year observation listed in CRSP/Compustat is not found in our publicly available blockholder database, it indicates that the observation does not have any blockholders.&lt;/p&gt;
   &lt;h3&gt;Access&lt;/h3&gt;
@@ -178,9 +178,9 @@
     
     <item>
       <title>Regulatory Fragmentation</title>
-      <link>https://volkovacodes.github.io/data/fragmentation/</link>
+      <link>https://evolkova.info/data/fragmentation/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/data/fragmentation/</guid>
+      <guid>https://evolkova.info/data/fragmentation/</guid>
       <description>&lt;div style=&#34;text-align: center&#34;&gt;
     &lt;a href=&#34;https://www.dropbox.com/s/mw23g61s2p9xhjs/companyyear_measures.csv?dl=0&#34; style=&#34;text-decoration: none;&#34;&gt;
         &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
@@ -203,7 +203,7 @@
     &lt;li&gt;&lt;b&gt;&lt;i&gt;Regulation_Quantity&lt;/i&gt;&lt;/b&gt; - Reflects the amount of the relevant regulations.&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3&gt;Publication&lt;/h3&gt;
-  &lt;p&gt;We describe the construction of this data in more detail in the paper &lt;a href=&#34;https://volkovacodes.github.io/research/fragmentation/&#34;&gt;&#34;Regulatory Fragmentation&#34;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
+  &lt;p&gt;We describe the construction of this data in more detail in the paper &lt;a href=&#34;https://evolkova.info/research/fragmentation/&#34;&gt;&#34;Regulatory Fragmentation&#34;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;Last update: 2020&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -211,9 +211,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://volkovacodes.github.io/post/getting-started/</link>
+      <link>https://evolkova.info/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/post/getting-started/</guid>
+      <guid>https://evolkova.info/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -291,9 +291,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://volkovacodes.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://evolkova.info/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://volkovacodes.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://evolkova.info/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -324,7 +324,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://volkovacodes.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://evolkova.info/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -332,9 +332,9 @@
     
     <item>
       <title>Information Revealed through the Regulatory Process Interactions between the SEC and Companies ahead of Their IPO</title>
-      <link>https://volkovacodes.github.io/research/sec_letters/</link>
+      <link>https://evolkova.info/research/sec_letters/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/sec_letters/</guid>
+      <guid>https://evolkova.info/research/sec_letters/</guid>
       <description>&lt;hr&gt;
 &lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Review of Financial Studies, 2020&lt;/p&gt;
 &lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
@@ -345,17 +345,17 @@
     
     <item>
       <title>Watch Your Basket - To Determine CEO Compensation</title>
-      <link>https://volkovacodes.github.io/research/ceo/</link>
+      <link>https://evolkova.info/research/ceo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/ceo/</guid>
+      <guid>https://evolkova.info/research/ceo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://volkovacodes.github.io/post/writing-technical-content/</link>
+      <link>https://evolkova.info/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/post/writing-technical-content/</guid>
+      <guid>https://evolkova.info/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -455,7 +455,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-816437295&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-149732586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -465,7 +465,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-816437295&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-149732586&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -747,9 +747,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://volkovacodes.github.io/post/jupyter/</link>
+      <link>https://evolkova.info/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/post/jupyter/</guid>
+      <guid>https://evolkova.info/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -806,43 +806,43 @@ Crash --&gt; [*]
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://volkovacodes.github.io/old_privacy/</link>
+      <link>https://evolkova.info/old_privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://volkovacodes.github.io/old_privacy/</guid>
+      <guid>https://evolkova.info/old_privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://volkovacodes.github.io/old_terms/</link>
+      <link>https://evolkova.info/old_terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://volkovacodes.github.io/old_terms/</guid>
+      <guid>https://evolkova.info/old_terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Can VPIN Forecast Geopolitical Events? An Application to the Crimean Crisis</title>
-      <link>https://volkovacodes.github.io/research/vpin/</link>
+      <link>https://evolkova.info/research/vpin/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/vpin/</guid>
+      <guid>https://evolkova.info/research/vpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial Public Offering A Synthesis of the Literature and Directions for Future Research</title>
-      <link>https://volkovacodes.github.io/research/ipo/</link>
+      <link>https://evolkova.info/research/ipo/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/research/ipo/</guid>
+      <guid>https://evolkova.info/research/ipo/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://volkovacodes.github.io/admin/config.yml</link>
+      <link>https://evolkova.info/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://volkovacodes.github.io/admin/config.yml</guid>
+      <guid>https://evolkova.info/admin/config.yml</guid>
       <description></description>
     </item>
     
