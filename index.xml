@@ -37,7 +37,7 @@
       <link>https://volkovacodes.github.io/research/fragmentation/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://volkovacodes.github.io/research/fragmentation/</guid>
-      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Revise and Resubmit, The Journal of Finance&lt;/p&gt;
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;The Journal of Finance, Forthcoming&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://volkovacodes.github.io/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:center; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Best paper award at FMARC conference &lt;/p&gt; 
 &lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
@@ -53,7 +53,7 @@
       <link>https://volkovacodes.github.io/research/blockholders/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://volkovacodes.github.io/research/blockholders/</guid>
-      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Revise and Resubmit, Management Science&lt;/p&gt;
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Management Science, Forthcoming&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://volkovacodes.github.io/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:10px;&#34;&gt;
     Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney.
@@ -455,7 +455,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-635942781&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-465721839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -465,7 +465,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-635942781&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-465721839&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
