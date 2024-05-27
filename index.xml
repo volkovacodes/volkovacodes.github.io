@@ -228,7 +228,6 @@ Using machine learning techniques, we identify the set of regulatory topics that
     &lt;li&gt;block_type – Description whether a blockholder is an individual, financial institution or other type of blockholder&lt;/li&gt;
     &lt;li&gt;files_13F – Indicator whether blockholders files 13F&lt;/li&gt;
   &lt;/ul&gt;
-  &lt;p&gt;&lt;strong&gt;Last update: January 2023&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -524,7 +523,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-154682793&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-754326819&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -534,7 +533,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-154682793&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-754326819&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
