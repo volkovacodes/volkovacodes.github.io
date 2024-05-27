@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: March 20, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="This dataset covers positions of all large shareholders in all US public companies from 1998 until 2021." />
+<meta name="description" content="This dataset covers positions of all large shareholders in all US public companies from 1998 until 2023." />
 
 
 
@@ -311,11 +311,11 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://volkovacodes.github.io/data/blocks/featured.png" />
+<meta property="twitter:image" content="https://volkovacodes.github.io/data/blocks/featured.jpg" />
 <meta property="og:site_name" content="Kate Volkova" />
 <meta property="og:url" content="https://volkovacodes.github.io/data/blocks/" />
 <meta property="og:title" content="Blockholder Ownership Dataset | Kate Volkova" />
-<meta property="og:description" content="This dataset covers positions of all large shareholders in all US public companies from 1998 until 2021." /><meta property="og:image" content="https://volkovacodes.github.io/data/blocks/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="This dataset covers positions of all large shareholders in all US public companies from 1998 until 2023." /><meta property="og:image" content="https://volkovacodes.github.io/data/blocks/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -982,9 +982,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 445px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 375px;">
   <div style="position: relative">
-    <img src="/data/blocks/featured_huae173dc6f8efa08ed61ab790921176c3_64996_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="445" alt="" class="featured-image">
+    <img src="/data/blocks/featured_hufc4e0749d9f8d84b8f69cdbea8fdc3d9_738881_720x2500_fit_q75_h2_lanczos.webp" width="720" height="375" alt="" class="featured-image">
     
   </div>
 </div>
@@ -995,7 +995,7 @@
 
     <div class="article-style">
       <div style="text-align: center">
-    <a href="https://www.dropbox.com/s/pim9z3fyz1x5ag9/blockholders.csv?dl=0" style="text-decoration: none;">
+    <a href="/data/blocks/blockholders.csv" style="text-decoration: none;">
         <button style="background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;">
            Click Here to Download the Data
         </button>
@@ -1007,9 +1007,10 @@
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 </style>
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;">Last updated in May 2024</p>
 <div>
   <h2>About the Dataset</h2>
-  <p>The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2021 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).</p>
+  <p>The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2023 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).</p>
   <h3>Publication</h3>
   <p>The data is described in the paper <a href="/research/blockholders/">"Is Blockholder Diversity Detrimental?"</a> by Miriam Schwartz-Ziv and Ekaterina Volkova. This <a href="https://github.com/volkovacodes/Block_Codes">GitHub</a> page provides the R-scripts used to collect, parse, and assemble the dataset.</p>
   <h3>Scope</h3>
@@ -1024,6 +1025,7 @@
     <li>company_name – Company name</li>
     <li>year – Year of filing</li>
     <li>position – % of shares held at the end of the calendar year</li>
+    <li>block_type – Description whether a blockholder is an individual, financial institution or other type of blockholder</li>
     <li>files_13F – Indicator whether blockholders files 13F</li>
   </ul>
   <p><strong>Last update: January 2023</strong></p>
