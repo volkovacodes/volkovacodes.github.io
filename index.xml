@@ -33,6 +33,18 @@
     </item>
     
     <item>
+      <title>Corporate Lobbying of Bureaucrats</title>
+      <link>https://volkovacodes.github.io/research/lobby/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://volkovacodes.github.io/research/lobby/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We find that 80% of companies that lobby Congress also lobby executive agencies. Although executive agencies are not beholden to companies for campaign contributions, the agencies are nevertheless influenced by lobbying: companies’ lobbying leads to more favorable rules, more special exemptions, more government contracts, and more favorable decisions on enforcement actions. Agencies’ bestowment of favors appears to be motivated by opportunities within the private sector: lobbying is significantly greater among agencies that have stronger revolving door relations with the private sector. Following a negative exogenous shock to agency power, the Supreme Court’s Chevron decision, firms engaged in agency lobbying experienced negative abnormal returns, underscoring the strategic value of lobbying agencies.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Regulatory Fragmentation</title>
       <link>https://volkovacodes.github.io/research/fragmentation/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
@@ -523,7 +535,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-754326819&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-519376428&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -533,7 +545,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-754326819&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-519376428&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
