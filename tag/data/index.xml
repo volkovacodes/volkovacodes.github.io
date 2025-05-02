@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/data/</link>
+      <atom:link href="https://www.evolkova.info/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>data</title>
+      <link>https://www.evolkova.info/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>Rule Relatedness</title>
+      <link>https://www.evolkova.info/data/rule_relatedness/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/rule_relatedness/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/rule-relatedness&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2025&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Measure of Company-Specific Rule Relatedness&lt;/strong&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockholder Ownership Dataset</title>
+      <link>https://www.evolkova.info/data/blocks/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/blocks/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/blocks/blockholders.csv&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2024&lt;/p&gt;
+&lt;div&gt;
+  &lt;h2&gt;About the Dataset&lt;/h2&gt;
+  &lt;p&gt;The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2023 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).&lt;/p&gt;
+  &lt;h3&gt;Publication&lt;/h3&gt;
+  &lt;p&gt;The data is described in the paper &lt;a href=&#34;https://www.evolkova.info/research/blockholders/&#34;&gt;&#34;Is Blockholder Diversity Detrimental?&#34;&lt;/a&gt; by Miriam Schwartz-Ziv and Ekaterina Volkova. This &lt;a href=&#34;https://github.com/volkovacodes/Block_Codes&#34;&gt;GitHub&lt;/a&gt; page provides the R-scripts used to collect, parse, and assemble the dataset.&lt;/p&gt;
+  &lt;h3&gt;Scope&lt;/h3&gt;
+  &lt;p&gt;The data covers all firms listed on SEC EDGAR, including those in CRSP/Compustat. Therefore, if a specific firm-year observation listed in CRSP/Compustat is not found in our publicly available blockholder database, it indicates that the observation does not have any blockholders.&lt;/p&gt;
+  &lt;h3&gt;Access&lt;/h3&gt;
+  &lt;p&gt;This dataset is also available through WRDS: &lt;a href=&#34;https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/&#34;&gt;WRDS Data Access&lt;/a&gt;&lt;/p&gt;
+  &lt;h3&gt;Variable Definition&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;blockholder_CIK – Blockholder CIK code&lt;/li&gt;
+    &lt;li&gt;blockholder_name – Blockholder name&lt;/li&gt;
+    &lt;li&gt;company_CIK – Company CIK code&lt;/li&gt;
+    &lt;li&gt;company_name – Company name&lt;/li&gt;
+    &lt;li&gt;year – Year of filing&lt;/li&gt;
+    &lt;li&gt;position – % of shares held at the end of the calendar year&lt;/li&gt;
+    &lt;li&gt;block_type – Description whether a blockholder is an individual, financial institution or other type of blockholder&lt;/li&gt;
+    &lt;li&gt;files_13F – Indicator whether blockholders files 13F&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://www.evolkova.info/data/fragmentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/fragmentation/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/fragmentation/companyyear_measures.csv&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in March 2024&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation Measure&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+We develop a measure of regulatory fragmentation, which captures the extent to which
+each individual topic is regulated by multiple federal agencies. Our measure is analogous to the Herfindahl-Hirschman Index (HHI): an issue that is regulated by only one agency is highly concentrated, and thus has the lowest possible fragmentation. We find that the least fragmented topic is “Securities: investment companies,” a highly specialized topic that is regulated by only a handful of financial agencies. In contrast, “Government Procurement: Small Businesses” is one of the most fragmented topics, handled by several dozen agencies. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+Using machine learning techniques, we identify the set of regulatory topics that are relevant to each firm, and we weight each of these topics by their relative importance to the firm. We find that regulatory fragmentation is a fundamental issue for U.S. companies. The typical firm’s business model relates to multiple regulatory topics, and each topic is spread across multiple agencies. In other words, many firms are accountable to numerous regulatory bodies. Interestingly, the firm’s regulatory fragmentation is not strongly correlated with other characteristics such as size and total regulatory burden.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Dataset&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;The dataset covers all SEC EDGAR companies starting from 1995. The sample provides company names and CIK (indentifiers used by the SEC). 
+The main variable, &lt;b&gt;&lt;i&gt;Regulatory_Fragmentation&lt;/i&gt;&lt;/b&gt;, reflects the variety of agencies a company is exposed to in a given year. Higher values of this variable suggest that a company is regulated by more agencies. We also provide two additional variables: 
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;&lt;i&gt;Topic_Dispersion&lt;/i&gt;&lt;/b&gt; - Shows the dispersion of topics raised by the company in their annual reports.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;&lt;i&gt;Regulation_Quantity&lt;/i&gt;&lt;/b&gt; - Reflects the amount of the relevant regulations.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+  &lt;h3&gt;Publication&lt;/h3&gt;
+  &lt;p&gt;We describe the construction of this data in more detail in the paper &lt;a href=&#34;https://www.evolkova.info/research/fragmentation/&#34;&gt;&#34;Regulatory Fragmentation&#34;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulations | Kate Volkova</title>
+    <link>https://www.evolkova.info/category/regulations/</link>
+      <atom:link href="https://www.evolkova.info/category/regulations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regulations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>Regulations</title>
+      <link>https://www.evolkova.info/category/regulations/</link>
+    </image>
+    
+    <item>
+      <title>Rule Relatedness</title>
+      <link>https://www.evolkova.info/data/rule_relatedness/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/rule_relatedness/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/rule-relatedness&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2025&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Measure of Company-Specific Rule Relatedness&lt;/strong&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

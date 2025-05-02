@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regulation | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/regulation/</link>
+      <atom:link href="https://www.evolkova.info/tag/regulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>regulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>regulation</title>
+      <link>https://www.evolkova.info/tag/regulation/</link>
+    </image>
+    
+    <item>
+      <title>Rule Relatedness</title>
+      <link>https://www.evolkova.info/data/rule_relatedness/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/rule_relatedness/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/rule-relatedness&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2025&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Measure of Company-Specific Rule Relatedness&lt;/strong&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://www.evolkova.info/research/fragmentation/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/fragmentation/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;The Journal of Finance, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evolkova.info/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:center; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Best paper award at FMARC and CAFM conferences&lt;/p&gt; 
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
+&lt;/p&gt;
+&lt;p style=&#34;color:darkblue; text-align:left; font-weight:bold; font-style:italic;&#34;&gt;Executive Summary&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation&lt;/strong&gt; &lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  The federal government is arguably the most influential actor in the United States economy. Its agenda includes a wide range of activities, and these activities are carried out daily by hundreds of agencies. We examine regulatory fragmentation: the extent to which the regulation of certain issues is spread across multiple agencies. For example, under current rules, climate disclosures fall under the purview of both the Securities and Exchange Commission (SEC) and the Environmental Protection Agency (EPA). As another example, firms in the financial industry must satisfy regulations by the Federal Reserve, the Treasury Department, and the CFTC, to name just a few. 
+&lt;/p&gt;  
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;  
+We document three main findings. First, there is substantial regulatory fragmentation across federal agencies in the United States. Second, regulatory fragmentation increases firms’ costs while lowering their productivity, profitability, and growth. Third, regulatory fragmentation deters entry into an industry.
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Measuring the wide range of government activities&lt;/strong&gt; 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  To quantify the government’s activities, we take advantage of the comprehensive information contained within the Federal Register (FR). The FR is the official daily publication of the federal government, and it details the activities of all the major federal agencies. Surprisingly, nearly half of the FR relates to activities other than formal rulemaking. These include lesser-known government actions such as meetings, hearings, and transactions approvals, all grouped under the inconspicuous title “notices.” This is the first quick takeaway: ignoring this component of the government’s agenda (as academic studies tend to do) would miss a significant portion of the government’s activities.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;We use machine learning techniques to categorize FR activities into 100 topics. While many past studies find an increase in government activity over time, we highlight how this trend varies across topics. For example, “Environment: data &amp; studies” has increased steadily over time, whereas “Aviation safety: inspection” has declined. Our measure also provides a unique perspective on two of the biggest shocks to the government agenda over the past 25 years: the 2008-09 financial crisis and the 2016 presidential election.  
+&lt;/p&gt;  
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation Measure&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+We develop a measure of regulatory fragmentation, which captures the extent to which
+each individual topic is regulated by multiple federal agencies. Our measure is analogous to the Herfindahl-Hirschman Index (HHI): an issue that is regulated by only one agency is highly concentrated, and thus has the lowest possible fragmentation. We find that the least fragmented topic is “Securities: investment companies,” a highly specialized topic that is regulated by only a handful of financial agencies. In contrast, “Government Procurement: Small Businesses” is one of the most fragmented topics, handled by several dozen agencies. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+Using machine learning techniques, we identify the set of regulatory topics that are relevant to each firm, and we weight each of these topics by their relative importance to the firm. We find that regulatory fragmentation is a fundamental issue for U.S. companies. The typical firm’s business model relates to multiple regulatory topics, and each topic is spread across multiple agencies. In other words, many firms are accountable to numerous regulatory bodies. Interestingly, the firm’s regulatory fragmentation is not strongly correlated with other characteristics such as size and total regulatory burden.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  &lt;strong&gt;Real effects of regulatory fragmentation&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  We find that regulatory fragmentation is costly for firms. First, firms that face greater regulatory fragmentation have higher Sales, General, and Administrative (SG&amp;A) costs. Since these firms must answer to more government agencies, they devote more resources to government relations and to regulatory compliance. Second, firms with greater regulatory fragmentation also have lower productivity, profitability, and sales and asset growth. This evidence is consistent with the idea that an increased regulatory burden diverts resources away from more value-increasing efforts.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Next, we examine how regulatory fragmentation affects hiring policies. One possibility is that the regulatory burden reduces the net present value of potential projects, forcing companies to hire fewer people. Alternatively, companies may need to hire more people to satisfy regulatory demands. We find that the latter channel represents the dominant effect: firms with higher regulatory fragmentation have significantly higher employment expenditures.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Finally, we investigate the impact of regulatory fragmentation on industry composition. We find that higher fragmentation is associated with fewer new firms entering an industry. Moreover, it is also associated with more firms – specifically smaller firms – exiting an industry.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  &lt;strong&gt;Why is regulatory fragmentation costly to firms?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  When multiple agencies oversee the same issue, the firm faces a higher regulatory burden because it must satisfy two agencies. In the best-case scenario, the two sets of regulations are redundant. In the worst-case scenario, the two sets of regulations may be (at least partially) inconsistent with each other.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  We find that the costs of fragmentation are greatest when the firm faces more inconsistent regulations. However, even merely redundant regulations are costly: the added time and resources required to satisfy two agencies contribute to higher costs and lower growth.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;strong&gt;What leads to regulatory fragmentation?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  In the last part of the paper, we investigate possible factors that contribute to regulatory fragmentation. We find that individual regulators face a higher probability of promotion when the agency ventures into topics that are outside of its core expertise, leading to more fragmentation. This suggests that internal promotion incentives contribute to greater fragmentation.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;strong&gt;In sum&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Our study provides new insight into the effects of regulation on economic activity. The economic impact depends not only on the number of rules, but also on broader constructs of government activity and on how those activities are organized across different agencies. Greater regulatory fragmentation leads to significant increases in costs and significant decreases in growth and profitability.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://www.evolkova.info/data/fragmentation/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/fragmentation/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/fragmentation/companyyear_measures.csv&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in March 2024&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation Measure&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+We develop a measure of regulatory fragmentation, which captures the extent to which
+each individual topic is regulated by multiple federal agencies. Our measure is analogous to the Herfindahl-Hirschman Index (HHI): an issue that is regulated by only one agency is highly concentrated, and thus has the lowest possible fragmentation. We find that the least fragmented topic is “Securities: investment companies,” a highly specialized topic that is regulated by only a handful of financial agencies. In contrast, “Government Procurement: Small Businesses” is one of the most fragmented topics, handled by several dozen agencies. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+Using machine learning techniques, we identify the set of regulatory topics that are relevant to each firm, and we weight each of these topics by their relative importance to the firm. We find that regulatory fragmentation is a fundamental issue for U.S. companies. The typical firm’s business model relates to multiple regulatory topics, and each topic is spread across multiple agencies. In other words, many firms are accountable to numerous regulatory bodies. Interestingly, the firm’s regulatory fragmentation is not strongly correlated with other characteristics such as size and total regulatory burden.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
+&lt;strong&gt;Dataset&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;The dataset covers all SEC EDGAR companies starting from 1995. The sample provides company names and CIK (indentifiers used by the SEC). 
+The main variable, &lt;b&gt;&lt;i&gt;Regulatory_Fragmentation&lt;/i&gt;&lt;/b&gt;, reflects the variety of agencies a company is exposed to in a given year. Higher values of this variable suggest that a company is regulated by more agencies. We also provide two additional variables: 
+&lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;&lt;i&gt;Topic_Dispersion&lt;/i&gt;&lt;/b&gt; - Shows the dispersion of topics raised by the company in their annual reports.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;&lt;i&gt;Regulation_Quantity&lt;/i&gt;&lt;/b&gt; - Reflects the amount of the relevant regulations.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+  &lt;h3&gt;Publication&lt;/h3&gt;
+  &lt;p&gt;We describe the construction of this data in more detail in the paper &lt;a href=&#34;https://www.evolkova.info/research/fragmentation/&#34;&gt;&#34;Regulatory Fragmentation&#34;&lt;/a&gt; with Joseph Kalmenovitz and Michelle Lowry.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
