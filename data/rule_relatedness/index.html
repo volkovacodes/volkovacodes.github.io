@@ -276,7 +276,7 @@
 
   
 
-<meta name="description" content="Company-specific measure of rule relatedness" />
+<meta name="description" content="Company-specific measure of rule relatedness for all proposed and final rules between 1999 and 2023." />
 
 
 
@@ -304,19 +304,18 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.evolkova.info/data/rule_relatedness/featured.png" />
 <meta property="og:site_name" content="Kate Volkova" />
 <meta property="og:url" content="https://www.evolkova.info/data/rule_relatedness/" />
 <meta property="og:title" content="Rule Relatedness | Kate Volkova" />
-<meta property="og:description" content="Company-specific measure of rule relatedness" /><meta property="og:image" content="https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Company-specific measure of rule relatedness for all proposed and final rules between 1999 and 2023." /><meta property="og:image" content="https://www.evolkova.info/data/rule_relatedness/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -798,18 +797,25 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
   <h1>Rule Relatedness</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -845,7 +851,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -932,7 +938,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/data/rule_relatedness/featured_hu9766950a957cac890d65b8d89d45e9ea_88682_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="480" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -954,8 +967,84 @@
     }
 </style>
 <p style="color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;">Last updated in May 2025</p>
-<p style="text-align:left; font-size:20px; padding:0px;">
-<strong>Measure of Company-Specific Rule Relatedness</strong>
+<p>This document provides a variable description for the shared dataset.
+Please cite <strong>&ldquo;Corporate Lobbying of Bureaucrats&rdquo;</strong> by Michelle Lowry and Ekaterina Volkova (2025) when using the data. More details on data construction are available in the latest draft:
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" target="_blank">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" target="_blank" rel="noopener">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884</a></a>.</p>
+<p>The dataset is based on the top 500 largest publicly traded companies each year (by market capitalization) from the CRSP-Compustat universe,
+covering the years 1999 through 2023.</p>
+<p>We collect all annual reports (10-Ks) from SEC EDGAR for each company-year observation, and all texts of proposed and final rules from the Federal Register.</p>
+<p>We estimate cosine similarity between each firm&rsquo;s 10-K and each rule text to measure rule-relatedness. We also report the number of English words in each rule,
+based on the Grady Ward dictionary.</p>
+<p>Finally, we identify <em>significant rules</em> using Office of Information and Regulatory Affairs (OIRA) classifications, and <em>major rules</em> based on U.S. Government Accountability Office (U.S. GAO) designations.</p>
+<h1 id="variable-description">Variable Description</h1>
+<style>
+  .varline {
+    font-family: 'Lato', sans-serif;
+    font-size: 0.9rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.65;
+  }
+  .varline code {
+    font-weight: 600;
+    font-size: 0.9rem;
+    background: #f4f4f4;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  .varline a {
+    color: #0047ab;
+    text-decoration: none;
+  }
+  .varline a:hover {
+    text-decoration: underline;
+  }
+  .source-note {
+    margin-top: 0.3rem;
+    font-size: 0.7rem;
+    color: #444;
+  }
+</style>
+<div class="varline">
+  <code>document_number</code>: Federal Register document ID number.
+  <div class="source-note">Source: <a href="https://www.federalregister.gov">Federal Register</a></div>
+</div>
+<div class="varline">
+  <code>agency</code>: Issuing federal agency (e.g., Department of Agriculture).
+  <div class="source-note">Source: <a href="https://www.federalregister.gov">Federal Register</a></div>
+</div>
+<div class="varline">
+  <code>publication_date</code>: Date the rule was published in Federal Register.
+  <div class="source-note">Source: <a href="https://www.federalregister.gov">Federal Register</a></div>
+</div>
+<div class="varline">
+  <code>rule_type</code>: Either <em>Proposed Rule</em> or <em>Rule</em> (for final rules).
+  <div class="source-note">Source: <a href="https://www.federalregister.gov">Federal Register</a></div>
+</div>
+<div class="varline">
+  <code>major_rule</code>: Indicator for "major" rules under the CRA.
+  <div class="source-note">Source: <a href="https://www.gao.gov/legal/congressional-review-act/search-database-of-rules">GAO</a> — Final Rules only</div>
+</div>
+<div class="varline">
+  <code>significant_rule</code>: Indicator for "significant" rules under EO 12866.
+  <div class="source-note">Source: <a href="https://www.reginfo.gov/public/do/eoPackageMain">OIRA</a> — Up 2020.</div>
+</div>
+<div class="varline">
+  <code>rule_word_count</code>: Number of English words in the rule text.
+  <div class="source-note">Source: <a href="https://www.federalregister.gov">Federal Register</a> + paper estimates</div>
+</div>
+<div class="varline">
+  <code>cik</code>: SEC Central Index Key identifying the company.
+  <div class="source-note">Source: <a href="https://www.sec.gov/edgar.shtml">SEC EDGAR</a></div>
+</div>
+<div class="varline">
+  <code>company_name</code>: Legal name of the company associated with the CIK.
+  <div class="source-note">Source: <a href="https://www.sec.gov/edgar.shtml">SEC EDGAR</a></div>
+</div>
+<div class="varline">
+  <code>relatedness</code>: Cosine similarity between the firm’s 10-K and the rule text.
+  <div class="source-note">Source: <a href="https://www.sec.gov/edgar.shtml">SEC EDGAR</a> + <a href="https://www.federalregister.gov">Federal Register</a>+ paper estimates</div>
+</div>
 </p>
 
     </div>
@@ -968,7 +1057,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/regulation/">regulation</a>
+  <a class="badge badge-light" href="/tag/regulations/">regulations</a>
   
   <a class="badge badge-light" href="/tag/data/">data</a>
   

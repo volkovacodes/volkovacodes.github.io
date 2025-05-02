@@ -31,8 +31,84 @@
     }
 &lt;/style&gt;
 &lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2025&lt;/p&gt;
-&lt;p style=&#34;text-align:left; font-size:20px; padding:0px;&#34;&gt;
-&lt;strong&gt;Measure of Company-Specific Rule Relatedness&lt;/strong&gt;
+&lt;p&gt;This document provides a variable description for the shared dataset.
+Please cite &lt;strong&gt;&amp;ldquo;Corporate Lobbying of Bureaucrats&amp;rdquo;&lt;/strong&gt; by Michelle Lowry and Ekaterina Volkova (2025) when using the data. More details on data construction are available in the latest draft:
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884&#34; target=&#34;_blank&#34;&gt;
+&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The dataset is based on the top 500 largest publicly traded companies each year (by market capitalization) from the CRSP-Compustat universe,
+covering the years 1999 through 2023.&lt;/p&gt;
+&lt;p&gt;We collect all annual reports (10-Ks) from SEC EDGAR for each company-year observation, and all texts of proposed and final rules from the Federal Register.&lt;/p&gt;
+&lt;p&gt;We estimate cosine similarity between each firm&amp;rsquo;s 10-K and each rule text to measure rule-relatedness. We also report the number of English words in each rule,
+based on the Grady Ward dictionary.&lt;/p&gt;
+&lt;p&gt;Finally, we identify &lt;em&gt;significant rules&lt;/em&gt; using Office of Information and Regulatory Affairs (OIRA) classifications, and &lt;em&gt;major rules&lt;/em&gt; based on U.S. Government Accountability Office (U.S. GAO) designations.&lt;/p&gt;
+&lt;h1 id=&#34;variable-description&#34;&gt;Variable Description&lt;/h1&gt;
+&lt;style&gt;
+  .varline {
+    font-family: &#39;Lato&#39;, sans-serif;
+    font-size: 0.9rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.65;
+  }
+  .varline code {
+    font-weight: 600;
+    font-size: 0.9rem;
+    background: #f4f4f4;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+  .varline a {
+    color: #0047ab;
+    text-decoration: none;
+  }
+  .varline a:hover {
+    text-decoration: underline;
+  }
+  .source-note {
+    margin-top: 0.3rem;
+    font-size: 0.7rem;
+    color: #444;
+  }
+&lt;/style&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;document_number&lt;/code&gt;: Federal Register document ID number.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;agency&lt;/code&gt;: Issuing federal agency (e.g., Department of Agriculture).
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;publication_date&lt;/code&gt;: Date the rule was published in Federal Register.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;rule_type&lt;/code&gt;: Either &lt;em&gt;Proposed Rule&lt;/em&gt; or &lt;em&gt;Rule&lt;/em&gt; (for final rules).
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;major_rule&lt;/code&gt;: Indicator for &#34;major&#34; rules under the CRA.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.gao.gov/legal/congressional-review-act/search-database-of-rules&#34;&gt;GAO&lt;/a&gt; — Final Rules only&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;significant_rule&lt;/code&gt;: Indicator for &#34;significant&#34; rules under EO 12866.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.reginfo.gov/public/do/eoPackageMain&#34;&gt;OIRA&lt;/a&gt; — Up 2020.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;rule_word_count&lt;/code&gt;: Number of English words in the rule text.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt; + paper estimates&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;cik&lt;/code&gt;: SEC Central Index Key identifying the company.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.sec.gov/edgar.shtml&#34;&gt;SEC EDGAR&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;company_name&lt;/code&gt;: Legal name of the company associated with the CIK.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.sec.gov/edgar.shtml&#34;&gt;SEC EDGAR&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;varline&#34;&gt;
+  &lt;code&gt;relatedness&lt;/code&gt;: Cosine similarity between the firm’s 10-K and the rule text.
+  &lt;div class=&#34;source-note&#34;&gt;Source: &lt;a href=&#34;https://www.sec.gov/edgar.shtml&#34;&gt;SEC EDGAR&lt;/a&gt; + &lt;a href=&#34;https://www.federalregister.gov&#34;&gt;Federal Register&lt;/a&gt;+ paper estimates&lt;/div&gt;
+&lt;/div&gt;
 &lt;/p&gt;
 </description>
     </item>
