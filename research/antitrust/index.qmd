@@ -1,0 +1,42 @@
+---
+title: "Antitrust Enforcement Increases Economic Activity"
+author:
+  - name: Tania Babina
+    equal-contributor: true
+  - name: Simcha Barkai
+    equal-contributor: true
+  - name: Jessica Jeffers
+    equal-contributor: true
+  - name: Ezra Karger
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2025-03-10"
+categories: [antitrust, economic activity, competition, enforcement]
+image: featured.png
+description: "Revise and Resubmit at American Economic Journal, Applied Economics"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Revise and Resubmit at American Economic Journal, Applied Economics</p>
+
+<p style="color:darkred; text-align:center; font-style:italic;">The Brattle Group FIRN Best Paper Award</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539741" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://www.nber.org/papers/w31597" class="btn btn-outline-primary" target="_blank">NBER WP PDF</a>
+<a href="https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/332barkaiantitrustbbjkv.pdf" class="btn btn-outline-primary" target="_blank">Stigler Center WP PDF</a>
+</div>
+
+![](featured.png){.featured-image fig-align="center"}
+
+<p style="text-align:left; font-style:italic; font-size:16px; padding:10px;">
+Presented at EFA, AEA and NBER SI, Boston College, the Center for Equitable Growth, Columbia University, the Department of Justice Antitrust Division, Emory University, the Entrepreneurship Junior Group Online Seminars, the Labor and Finance Group Conference, NYU WARPFIN Conference, the Stigler Center for the Study of the Economy and the State, the Stigler Center 2023 Antitrust and Competition Conference, the University of Melbourne, and the University of Warwick.
+</p>
+
+<a href="https://www.promarket.org/2023/09/05/antitrust-enforcement-increases-economic-activity/">Summary at Promarket</a>
+
+## Abstract
+
+This paper examines the effects of antitrust enforcement on local economic activity. Using newly collected data on the operation of the Department of Justice Antitrust Division's local field offices, we document that increased federal antitrust enforcement leads to higher employment, more new businesses, and higher earnings. We find that the effects are driven by smaller and younger firms, and by areas with higher levels of initial concentration. The effects appear in tradable and non-tradable sectors, and are not driven by federal contracts or defense spending. The results suggest that antitrust enforcement plays an important role in promoting local economic activity.
+
+![Event-time analysis of antitrust enforcement effects](figure2_eventtime_estab.pdf){fig-align="center"}

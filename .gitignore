@@ -1,0 +1,18 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local

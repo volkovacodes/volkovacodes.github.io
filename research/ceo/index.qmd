@@ -1,0 +1,27 @@
+---
+title: "Watch Your Basket - To Determine CEO Compensation"
+author:
+  - name: Neal Galpin
+    equal-contributor: true
+  - name: Hae Won (Henny) Jung
+    equal-contributor: true
+  - name: Lyndon Moore
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2019-09-01"
+categories: [CEO compensation, corporate governance]
+description: "**Financial Management** (2019)"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Financial Management (2019)</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://doi.org/10.1111/fima.12243" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014572" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12243" class="btn btn-outline-primary" target="_blank">Published Version</a>
+</div>
+
+## Abstract
+
+This paper examines how the composition of CEO compensation benchmarking peer groups affects executive pay. We document how firms strategically select peer groups and the implications for CEO compensation outcomes.

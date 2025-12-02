@@ -1,0 +1,22 @@
+---
+title: "Rule Relatedness"
+date: "2024-01-01"
+categories: [regulations, data, government activity, regulatory fragmentation]
+image: featured.png
+description: "Company-specific measure of rule relatedness for all proposed and final rules between 1999 and 2023."
+---
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" class="btn btn-outline-primary" target="_blank">SSRN</a>
+<a href="/research/lobby/" class="btn btn-outline-primary">Paper</a>
+</div>
+
+![](featured.png){.featured-image fig-align="center"}
+
+## About the Measure
+
+This dataset provides company-specific measures of rule relatedness for all proposed and final rules between 1999 and 2023. The measure captures how relevant each regulatory rule is to specific companies.
+
+### Publication
+
+We describe the construction of this data in more detail in the paper ["Corporate Lobbying of Bureaucrats"](/research/lobby/) with Michelle Lowry.

@@ -1,0 +1,27 @@
+---
+title: "Corporate Lobbying of Bureaucrats"
+author:
+  - name: Michelle Lowry
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2025-05-01"
+categories: [lobbying, regulations, bureaucrats]
+image: featured.png
+description: "Working paper on corporate lobbying of bureaucrats"
+---
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="/data/rule_relatedness" class="btn btn-outline-primary">Data</a>
+</div>
+
+![](featured.png){.featured-image fig-align="center"}
+
+<p style="text-align:left; font-style:italic; font-size:16px; padding:10px;">
+Presented at HKU Summer Finance Conference, Essex University, Manchester University, Lancaster University, McGill University, University of Illinois Urbana-Champaign, Sydney Banking and Financial Stability Conference
+</p>
+
+## Abstract
+
+This paper examines how corporations engage with bureaucrats during the rulemaking process. We document patterns of corporate lobbying and their effects on regulatory outcomes.

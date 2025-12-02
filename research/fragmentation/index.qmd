@@ -1,0 +1,36 @@
+---
+title: "Regulatory Fragmentation"
+author:
+  - name: Joseph Kalmenovitz
+    equal-contributor: true
+  - name: Michelle Lowry
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2025-04-01"
+categories: [regulatory fragmentation, regulations, government activity]
+image: featured.png
+description: "**The Journal of Finance** (2025) - Study on the effects of regulatory fragmentation on firms."
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">The Journal of Finance (2025)</p>
+
+<p style="text-align:center; font-style:italic;">Best paper award at FMARC conference</p>
+<p style="text-align:center; font-style:italic;">Best paper award at CAFM conference</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://doi.org/10.1111/jofi.13423" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="/data/fragmentation" class="btn btn-outline-primary">Data</a>
+<a href="https://github.com/volkovacodes/Regulatory_Fragmentation" class="btn btn-outline-primary" target="_blank">Code</a>
+</div>
+
+![](featured.png){.featured-image fig-align="center"}
+
+<p style="text-align:left; font-style:italic; font-size:16px; padding:10px;">
+Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
+</p>
+
+## Abstract
+
+We document that companies face a highly fragmented regulatory environment, where multiple agencies regulate overlapping aspects of their operations. We develop a novel measure of regulatory fragmentation that captures the extent to which a firm's activities are regulated by multiple agencies. Firms with higher fragmentation have lower valuations and invest less. Using regulatory reforms that consolidated oversight responsibilities as a natural experiment, we show that reductions in fragmentation lead to increases in firm value and investment. The effects are stronger for firms with higher ex-ante fragmentation. Our results highlight the costs of regulatory complexity and the benefits of regulatory coordination.
