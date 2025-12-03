@@ -1,0 +1,374 @@
+---
+pagetitle: "Kate Volkova"
+page-layout: custom
+section-divs: false
+toc: false
+css: styles.css
+---
+
+::: {.home-section #about}
+::: {.container}
+
+## About me {.section-heading}
+
+::: {.about-grid}
+
+::: {.profile-sidebar}
+<div style="text-align: center;">
+<img src="authors/admin/avatar.png" alt="Ekaterina Volkova" class="profile-avatar">
+
+### Ekaterina Volkova {style="margin-top: 1rem; font-size: 1.5rem;"}
+
+#### Associate Professor, Department of Finance, The University of Melbourne {style="color: #666; font-weight: 400; font-size: 1rem;"}
+
+
+<ul class="social-icons" style="margin-top: 1.5rem;">
+<li><a href="https://ssrn.com/author=2535036" target="_blank" title="SSRN"><i class="ai ai-ssrn big-icon"></i></a></li>
+<li><a href="https://scholar.google.com/citations?user=XXLvyR4AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar big-icon"></i></a></li>
+<li><a href="https://twitter.com/Dr_Volkova" target="_blank" title="Twitter"><i class="bi bi-twitter"></i></a></li>
+<li><a href="https://github.com/volkovacodes" target="_blank" title="GitHub"><i class="bi bi-github"></i></a></li>
+<li><a href="https://www.linkedin.com/in/orhahog/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+<li><a href="uploads/cv_volkova.pdf" title="CV"><i class="ai ai-cv big-icon"></i></a></li>
+<li><a href="https://volkovanotes.wordpress.com" target="_blank" title="Blog"><i class="bi bi-wordpress"></i></a></li>
+</ul>
+</div>
+:::
+
+::: {.profile-content}
+<p style="text-align: justify; font-family: Georgia, serif; font-size: 20px; line-height: 1.6; font-weight: normal;">I am an Associate Professor in the Department of Finance at the Faculty of Business and Economics, University of Melbourne. My research focuses primarily on corporate governance and the oversight of publicly traded companies. In particular, my work explores the impact of large shareholders and regulators (such as the Securities and Exchange Commission and the Department of Justice) on corporate policies and dynamics. The methodologies in my papers utilize textual analysis and basic machine learning applications to extract quantitative information from textual disclosures.</p>
+
+::: {style="margin-top: 2rem; font-family: Georgia, serif; font-size: 16px; display: grid; grid-template-columns: 1fr 2fr; gap: 2rem;"}
+
+::: {.interests}
+#### Interests
+
+- Corporate Governance
+- Corporate Disclosure
+- Politics in Finance
+- Large Shareholders
+:::
+
+::: {.education}
+#### Education
+
+- **PhD in Finance**, 2017  
+  SC Johnson College of Business, Cornell University
+- **MA in Economics**, 2012  
+  New Economic School
+- **MS in Mathematics**, 2011  
+  Moscow State University
+:::
+
+:::
+:::
+
+:::
+:::
+:::
+
+::: {.home-section #research style="background-color: #f8f9fa;"}
+::: {.container}
+
+## Working Papers {.section-heading}
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Corporate Lobbying of Bureaucrats](research/lobby/index.qmd)
+
+<p class="research-meta">Michelle Lowry, <strong>Ekaterina Volkova</strong> · May 2025</p>
+
+<p style="color: darkred; font-weight: bold; font-style: italic;">Reject and Resubmit at The Journal of Finance</p>
+
+
+<p style="font-style: italic; font-size: 0.9rem;">Presented at HKU Summer Finance Conference, Essex University, Manchester University, Lancaster University, McGill University, University of Illinois Urbana-Champaign, Sydney Banking and Financial Stability Conference</p>
+
+<div class="btn-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="data/rule_relatedness/index.qmd" class="btn btn-outline-primary">Data</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/lobby/featured.png)
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Antitrust Enforcement Increases Economic Activity](research/antitrust/index.qmd)
+
+<p class="research-meta">Tania Babina, Simcha Barkai, Jessica Jeffers, Ezra Karger, <strong>Ekaterina Volkova</strong> · March 2025</p>
+
+<p style="color: darkred; font-weight: bold; font-style: italic;">Revise and Resubmit at American Economic Journal, Applied Economics</p>
+
+<p style="font-style: italic; font-size: 0.9rem;"><em>The Brattle Group FIRN Best Paper Award</em><br>Presented at EFA, AEA and NBER SI, Boston College, the Center for Equitable Growth, Columbia University, the Department of Justice Antitrust Division, Emory University, the Stigler Center, University of Melbourne, and University of Warwick.<br><a href="https://www.promarket.org/2023/09/05/antitrust-enforcement-increases-economic-activity/">Summary at Promarket</a></p>
+
+<div class="btn-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539741" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://www.nber.org/papers/w31597" class="btn btn-outline-primary" target="_blank">NBER WP PDF</a>
+<a href="https://www.chicagobooth.edu/-/media/research/stigler/pdfs/workingpapers/332barkaiantitrustbbjkv.pdf" class="btn btn-outline-primary" target="_blank">Stigler Center WP PDF</a>
+<a href="research/antitrust/index.qmd" class="btn btn-outline-primary">More information...</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/antitrust/featured.png)
+:::
+:::
+
+## Publications {.section-heading style="margin-top: 3rem;"}
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Regulatory Fragmentation](research/fragmentation/index.qmd)
+
+<p class="research-meta">Joseph Kalmenovitz, Michelle Lowry, <strong>Ekaterina Volkova</strong> · April 2025</p>
+
+<p><strong><em>The Journal of Finance</em></strong> (2025)<br><em>Best paper award at FMARC conference</em><br><em>Best paper award at CAFM conference</em></p>
+
+<p style="font-style: italic; font-size: 0.9rem;">Presented at AFA, Future of Financial Information Conference, FIRN, APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.</p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1111/jofi.13423" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="data/fragmentation/index.qmd" class="btn btn-outline-primary">Data</a>
+<a href="https://github.com/volkovacodes/Regulatory_Fragmentation" class="btn btn-outline-primary" target="_blank">Code</a>
+<a href="research/fragmentation/index.qmd" class="btn btn-outline-primary">More information...</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/fragmentation/featured.png)
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Is Blockholder Diversity Detrimental?](research/blockholders/index.qmd)
+
+<p class="research-meta">Miriam Schwartz-Ziv, <strong>Ekaterina Volkova</strong> · February 2025</p>
+
+<p><strong><em>Management Science</em></strong> (2025)</p>
+
+<p style="font-style: italic; font-size: 0.9rem;">Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney.</p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1287/mnsc.2023.00528" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621939" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="data/blocks/index.qmd" class="btn btn-outline-primary">Data</a>
+<a href="https://github.com/volkovacodes/Block_Codes" class="btn btn-outline-primary" target="_blank">GitHub</a>
+<a href="research/blockholders/index.qmd" class="btn btn-outline-primary">More information...</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/blockholders/featured.png)
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Media Ownership and Ideological Slant, Evidence from Australian Newspaper Mergers](research/au_media/index.qmd)
+
+<p class="research-meta">Maxim Ananyev, <strong>Ekaterina Volkova</strong> · December 2024</p>
+
+<p><strong><em>Plos One</em></strong> (2024)</p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1371/journal.pone.0315137" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033851" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/au_media/featured.png)
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Information Revealed through the Regulatory Process: Interactions between the SEC and Companies ahead of Their IPO](research/sec_letters/index.qmd)
+
+<p class="research-meta">Michelle Lowry, Roni Michaely, <strong>Ekaterina Volkova</strong> · January 2020</p>
+
+<p><strong><em>The Review of Financial Studies</em></strong> (2020)</p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1093/rfs/hhaa007" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2802599" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://academic.oup.com/rfs/article/33/12/5510/5716337" class="btn btn-outline-primary" target="_blank">Published Version</a>
+<a href="research/sec_letters/sec_appendix.pdf" class="btn btn-outline-primary">Online Appendix</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/sec_letters/featured.png)
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Watch Your Basket - To Determine CEO Compensation](research/ceo/index.qmd)
+
+<p class="research-meta">Neal Galpin, Hae Won (Henny) Jung, Lyndon Moore, <strong>Ekaterina Volkova</strong> · September 2019</p>
+
+<p><strong><em>Financial Management</em></strong> (2019)</p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1111/fima.12243" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014572" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12243" class="btn btn-outline-primary" target="_blank">Published Version</a>
+</div>
+:::
+:::
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Can VPIN Forecast Geopolitical Events? An Application to the Crimean Crisis](research/vpin/index.qmd)
+
+<p class="research-meta">Felipe Silva, <strong>Ekaterina Volkova</strong> · February 2018</p>
+
+<p><strong><em>Annals of Finance</em></strong> (2018)</p>
+
+<p style="font-size: 0.9rem;">News coverage in <a href="https://www.bloomberg.com/view/articles/2015-02-25/russia-s-insider-traders-know-putin-s-plans">Bloomberg</a>, <a href="https://www.washingtonpost.com/news/wonk/wp/2015/03/16/putin-is-back-and-markets-dont-care-what-the-heck-is-going-on/">Washington Post</a>, <a href="https://www.rferl.org/a/stock-trading-russia-crimea-connection-ukraine-american/26873353.html">Radio Liberty</a>, <a href="https://www.derstandard.at/consent/tcf/2000014096695/Krimkrise-Studenten-entdecken-Insiderhandel">Der Standard</a>, <a href="https://www.vedomosti.ru/newspaper/articles/2015/02/24/rinok-znali-o-krime">Vedomosti</a></p>
+
+<div class="btn-links">
+<a href="https://doi.org/10.1007/s10436-017-0314-z" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2828697" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://link.springer.com/article/10.1007/s10436-017-0314-z" class="btn btn-outline-primary" target="_blank">Published Version</a>
+</div>
+:::
+:::
+
+## Review Chapters {.section-heading style="margin-top: 3rem;"}
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Initial Public Offering: A Synthesis of the Literature and Directions for Future Research](research/ipo/index.qmd)
+
+<p class="research-meta">Michelle Lowry, Roni Michaely, <strong>Ekaterina Volkova</strong> · November 2017</p>
+
+<p>Review Chapter in <strong><em>Foundation and Trends in Finance</em></strong> (2017)</p>
+
+<div class="btn-links">
+<a href="http://dx.doi.org/10.1561/0500000050" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014572" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://www.nowpublishers.com/article/Details/FIN-050" class="btn btn-outline-primary" target="_blank">Published Version</a>
+<a href="https://github.com/volkovacodes/IPO-Review-Chapter" class="btn btn-outline-primary" target="_blank">GitHub</a>
+<a href="research/ipo/ipo_appendix.pdf" class="btn btn-outline-primary">Data Appendix</a>
+</div>
+:::
+:::
+
+:::
+:::
+
+
+::: {.home-section #data}
+::: {.container}
+
+## Datasets {.section-heading style="text-align: center;"}
+
+::: {.dataset-card data-category="regulations"}
+::: {.two-column}
+::: {}
+![](data/rule_relatedness/featured.png){.featured-image}
+:::
+::: {}
+### [Rule Relatedness](data/rule_relatedness/index.qmd)
+
+Company-specific measure of rule relatedness for all proposed and final rules between 1999 and 2023.
+
+<div class="btn-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" class="btn btn-outline-primary" target="_blank">SSRN</a>
+<a href="data/rule_relatedness/index.qmd" class="btn btn-outline-primary">Data</a>
+<a href="research/lobby/index.qmd" class="btn btn-outline-primary">Paper</a>
+</div>
+:::
+:::
+:::
+
+::: {.dataset-card data-category="regulations"}
+::: {.two-column}
+::: {}
+![](data/fragmentation/featured.png){.featured-image}
+:::
+::: {}
+### [Regulatory Fragmentation](data/fragmentation/index.qmd)
+
+Company-year specific measure of regulatory fragmentation.
+
+<div class="btn-links">
+<a href="https://papers.ssrn. com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN</a>
+<a href="data/fragmentation/index.qmd" class="btn btn-outline-primary">Data</a>
+<a href="research/fragmentation/index.qmd" class="btn btn-outline-primary">Paper</a>
+<a href="data/fragmentation/index.qmd" class="btn btn-outline-primary">More information...</a>
+</div>
+:::
+:::
+:::
+
+::: {.dataset-card data-category="blockholders"}
+::: {.two-column}
+::: {}
+![](data/blocks/featured.jpg){.featured-image}
+:::
+::: {}
+### [Blockholder Ownership Dataset](data/blocks/index.qmd)
+
+This dataset covers positions of all large shareholders in all US public companies from 1998 until 2023.
+
+<div class="btn-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621939" class="btn btn-outline-primary" target="_blank">SSRN</a>
+<a href="data/blocks/index.qmd" class="btn btn-outline-primary">Data</a>
+<a href="https://wrds-www. wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/" class="btn btn-outline-primary" target="_blank">WRDS</a>
+<a href="https://github.com/volkovacodes/Block_Codes" class="btn btn-outline-primary" target="_blank">GitHub</a>
+<a href="research/blockholders/index. qmd" class="btn btn-outline-primary">Paper</a>
+<a href="data/blocks/index.qmd" class="btn btn-outline-primary">More information...</a>
+</div>
+:::
+:::
+:::
+
+:::
+:::
+
+
+::: {.home-section #contact style="background-color: #f8f9fa;"}
+::: {.container}
+
+## Contact {.section-heading}
+
+::: {.contact-info}
+
+<p><i class="bi bi-envelope"></i> <a href="mailto:evolkova@unimelb.edu.au">evolkova@unimelb.edu.au</a></p>
+
+<p><i class="bi bi-telephone"></i> <a href="tel:+61390355110">+61 3 9035 5110</a></p>
+
+<p><i class="bi bi-geo-alt"></i> 198 Berkeley St, Parkville, Melbourne, VIC, Australia, 3053</p>
+
+:::
+
+:::
+:::
+
+<script>
+// Simple filter functionality for datasets
+document.addEventListener('DOMContentLoaded', function() {
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const datasetCards = document.querySelectorAll('.dataset-card');
+  
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', function() {
+      const filter = this.dataset.filter;
+      
+      // Update active button
+      filterBtns.forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      
+      // Filter cards
+      datasetCards.forEach(card => {
+        if (filter === 'all' || card.dataset.category === filter) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>

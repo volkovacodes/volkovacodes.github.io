@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media concentration | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/media-concentration/</link>
+      <atom:link href="https://www.evolkova.info/tag/media-concentration/index.xml" rel="self" type="application/rss+xml" />
+    <description>media concentration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>media concentration</title>
+      <link>https://www.evolkova.info/tag/media-concentration/</link>
+    </image>
+    
+    <item>
+      <title>Media Ownership and Ideological Slant, Evidence from Australian Newspaper Mergers</title>
+      <link>https://www.evolkova.info/research/au_media/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/au_media/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; This study examines how media acquisitions by corporate conglomerates influence the political slant of Australian newspapers. Using a comprehensive measure based on the language of over 30 million news articles from more than 200 newspapers, we analyze the impact of three major acquisitions between 2016 and 2019. Employing a synthetic difference-in-differences approach, we find that acquisitions can significantly shift newspapers’ political slant, with effects varying by acquiring entity. News Corp’s 2016 acquisition led to a marked conservative shift in newspapers it already owned, while subsequent acquisitions by Nine Entertainment and the acquisition of Australian Community Media by Antony Catalano and Alex Waislitz resulted in shifts away from conservative slant in acquired newspapers. Our results provide evidence for the importance of supply-side factors in determining media slant, particularly in an era of increasing media ownership concentration.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

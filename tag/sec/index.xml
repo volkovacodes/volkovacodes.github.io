@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEC | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/sec/</link>
+      <atom:link href="https://www.evolkova.info/tag/sec/index.xml" rel="self" type="application/rss+xml" />
+    <description>SEC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>SEC</title>
+      <link>https://www.evolkova.info/tag/sec/</link>
+    </image>
+    
+    <item>
+      <title>Information Revealed through the Regulatory Process Interactions between the SEC and Companies ahead of Their IPO</title>
+      <link>https://www.evolkova.info/research/sec_letters/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/sec_letters/</guid>
+      <description>&lt;hr&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Review of Financial Studies, 2020&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; The regulator plays an active role in the IPO process via its pre-IPO communications with firms, writing 3.8 comment letters per company. To evaluate the regulator’s input, we analyze these communications between the SEC and firms using LDA-analysis and KL-divergence. Main topics of SEC concerns map closely into the regulator’s stated mandate: companies increase prospectus disclosures within precise topics of SEC concern. Questions related to revenue recognition are most informative about company valuation. These concerns are not independently uncovered by investors. This dynamic process of information disclosure results in increased transparency, but at a cost of delays in going public.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>block diversity | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/block-diversity/</link>
+      <atom:link href="https://www.evolkova.info/tag/block-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>block diversity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>block diversity</title>
+      <link>https://www.evolkova.info/tag/block-diversity/</link>
+    </image>
+    
+    <item>
+      <title>Is Blockholder Diversity Detrimental?</title>
+      <link>https://www.evolkova.info/research/blockholders/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/blockholders/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Management Science, Forthcoming&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evolkova.info/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:10px;&#34;&gt;
+    Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We find that blockholder diversity, i.e., the firm shareholder base including several different types of blocks, is detrimental to firm performance. We show that lagged disclosure, on exogenous predetermined dates, that reveals an increase in block diversity is followed by a negative market reaction. Firms held by heterogeneous blockholders consistently perform worse than firms held by homogeneous blockholders. Block diversity is particularly detrimental when uncertainty is high. Disagreement among shareholders (e.g., as reflected in the frequency of lawsuits being filed) increases when the blockholder base is diverse. We make our blockholder dataset public for the benefit of other researchers.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px; color:#000080;&#34;&gt;
+    &lt;strong&gt;Metaphorical Summary:&lt;/strong&gt; The image below is an illustration from a famous fable penned by the Russian poet Ivan Krylov, &#34;The Swan, the Crayfish, and the Pike.&#34; In this allegorical tale, three animals attempt to pull a wagon together. However, due to their distinct methods and conflicting directions - the swan flying upward, the crayfish crawling backward, and the pike diving into the water - they fail to move the wagon. This lack of coordination and cooperation exemplifies how a failure to align on common goals can lead to complete stagnation.
+    &lt;br&gt;
+    Similarly, in our paper, we explore the dynamics between large shareholders, or blockholders, of different types. Though these shareholders may aim to work in concert, diverging incentives and preferences often render their attempts counterproductive. This modern application of Krylov&#39;s timeless message underscores the critical importance of cohesion and aligned interests in the world of corporate finance.
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp 400w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_b20e4231093dd28b2598d0992c70e6d3.webp 760w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.evolkova.info/research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp&#34;
+               width=&#34;574&#34;
+               height=&#34;704&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Blockholder Ownership Dataset</title>
+      <link>https://www.evolkova.info/data/blocks/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/data/blocks/</guid>
+      <description>&lt;div style=&#34;text-align: center&#34;&gt;
+    &lt;a href=&#34;https://www.evolkova.info/data/blocks/blockholders.csv&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;button style=&#34;background: linear-gradient(to bottom, #FF6B6B, #E63946); color: white; margin-top:6px; margin-bottom:16px; border-radius:6px; font-size:1.2em; padding:10px 24px; font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; float:none !important; border: none; cursor: pointer; transition: all 0.3s ease;&#34;&gt;
+           Click Here to Download the Data
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+    button:hover {
+        background: linear-gradient(to bottom, #FF5050, #E62626);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+&lt;/style&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;&#34;&gt;Last updated in May 2024&lt;/p&gt;
+&lt;div&gt;
+  &lt;h2&gt;About the Dataset&lt;/h2&gt;
+  &lt;p&gt;The dataset includes all blockholder (holding at least 5% of the firms outstanding shares) in US public companies for each year within the 1998-2023 period. The data provide an annual snapshot (for December of each year). The data on the block positions was extracted from 13D and 13G filings and their amendments. In these filings shareholders disclose their block holdings (i.e., positions that are at least five percent of the firm’s outstanding shares).&lt;/p&gt;
+  &lt;h3&gt;Publication&lt;/h3&gt;
+  &lt;p&gt;The data is described in the paper &lt;a href=&#34;https://www.evolkova.info/research/blockholders/&#34;&gt;&#34;Is Blockholder Diversity Detrimental?&#34;&lt;/a&gt; by Miriam Schwartz-Ziv and Ekaterina Volkova. This &lt;a href=&#34;https://github.com/volkovacodes/Block_Codes&#34;&gt;GitHub&lt;/a&gt; page provides the R-scripts used to collect, parse, and assemble the dataset.&lt;/p&gt;
+  &lt;h3&gt;Scope&lt;/h3&gt;
+  &lt;p&gt;The data covers all firms listed on SEC EDGAR, including those in CRSP/Compustat. Therefore, if a specific firm-year observation listed in CRSP/Compustat is not found in our publicly available blockholder database, it indicates that the observation does not have any blockholders.&lt;/p&gt;
+  &lt;h3&gt;Access&lt;/h3&gt;
+  &lt;p&gt;This dataset is also available through WRDS: &lt;a href=&#34;https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/&#34;&gt;WRDS Data Access&lt;/a&gt;&lt;/p&gt;
+  &lt;h3&gt;Variable Definition&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;blockholder_CIK – Blockholder CIK code&lt;/li&gt;
+    &lt;li&gt;blockholder_name – Blockholder name&lt;/li&gt;
+    &lt;li&gt;company_CIK – Company CIK code&lt;/li&gt;
+    &lt;li&gt;company_name – Company name&lt;/li&gt;
+    &lt;li&gt;year – Year of filing&lt;/li&gt;
+    &lt;li&gt;position – % of shares held at the end of the calendar year&lt;/li&gt;
+    &lt;li&gt;block_type – Description whether a blockholder is an individual, financial institution or other type of blockholder&lt;/li&gt;
+    &lt;li&gt;files_13F – Indicator whether blockholders files 13F&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

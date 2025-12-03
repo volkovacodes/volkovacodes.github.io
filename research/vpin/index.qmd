@@ -1,0 +1,31 @@
+---
+title: "Can VPIN Forecast Geopolitical Events? An Application to the Crimean Crisis"
+author:
+  - name: Felipe Silva
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2018-02-18"
+categories: [VPIN, geopolitics, Crimea, insider trading]
+description: "**Annals of Finance** (2018)"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Annals of Finance (2018)</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://doi.org/10.1007/s10436-017-0314-z" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2828697" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://link.springer.com/article/10.1007/s10436-017-0314-z" class="btn btn-outline-primary" target="_blank">Published Version</a>
+</div>
+
+## News Coverage
+
+- [Bloomberg](https://www.bloomberg.com/view/articles/2015-02-25/russia-s-insider-traders-know-putin-s-plans)
+- [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/03/16/putin-is-back-and-markets-dont-care-what-the-heck-is-going-on/)
+- [Radio Liberty](https://www.rferl.org/a/stock-trading-russia-crimea-connection-ukraine-american/26873353.html)
+- [Der Standard](https://www.derstandard.at/consent/tcf/2000014096695/Krimkrise-Studenten-entdecken-Insiderhandel)
+- [Vedomosti](https://www.vedomosti.ru/newspaper/articles/2015/02/24/rinok-znali-o-krime)
+
+## Abstract
+
+This paper examines whether market microstructure measures can forecast geopolitical events. Using the VPIN (Volume-Synchronized Probability of Informed Trading) measure, we show evidence of informed trading ahead of major geopolitical events during the Crimean crisis.

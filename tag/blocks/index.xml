@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blocks | Kate Volkova</title>
+    <link>https://www.evolkova.info/tag/blocks/</link>
+      <atom:link href="https://www.evolkova.info/tag/blocks/index.xml" rel="self" type="application/rss+xml" />
+    <description>blocks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>blocks</title>
+      <link>https://www.evolkova.info/tag/blocks/</link>
+    </image>
+    
+    <item>
+      <title>Is Blockholder Diversity Detrimental?</title>
+      <link>https://www.evolkova.info/research/blockholders/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/blockholders/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Management Science, Forthcoming&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evolkova.info/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:10px;&#34;&gt;
+    Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We find that blockholder diversity, i.e., the firm shareholder base including several different types of blocks, is detrimental to firm performance. We show that lagged disclosure, on exogenous predetermined dates, that reveals an increase in block diversity is followed by a negative market reaction. Firms held by heterogeneous blockholders consistently perform worse than firms held by homogeneous blockholders. Block diversity is particularly detrimental when uncertainty is high. Disagreement among shareholders (e.g., as reflected in the frequency of lawsuits being filed) increases when the blockholder base is diverse. We make our blockholder dataset public for the benefit of other researchers.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px; color:#000080;&#34;&gt;
+    &lt;strong&gt;Metaphorical Summary:&lt;/strong&gt; The image below is an illustration from a famous fable penned by the Russian poet Ivan Krylov, &#34;The Swan, the Crayfish, and the Pike.&#34; In this allegorical tale, three animals attempt to pull a wagon together. However, due to their distinct methods and conflicting directions - the swan flying upward, the crayfish crawling backward, and the pike diving into the water - they fail to move the wagon. This lack of coordination and cooperation exemplifies how a failure to align on common goals can lead to complete stagnation.
+    &lt;br&gt;
+    Similarly, in our paper, we explore the dynamics between large shareholders, or blockholders, of different types. Though these shareholders may aim to work in concert, diverging incentives and preferences often render their attempts counterproductive. This modern application of Krylov&#39;s timeless message underscores the critical importance of cohesion and aligned interests in the world of corporate finance.
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp 400w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_b20e4231093dd28b2598d0992c70e6d3.webp 760w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.evolkova.info/research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp&#34;
+               width=&#34;574&#34;
+               height=&#34;704&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+---
+title: "Information Revealed through the Regulatory Process: Interactions between the SEC and Companies ahead of Their IPO"
+author:
+  - name: Michelle Lowry
+    equal-contributor: true
+  - name: Roni Michaely
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2020-01-27"
+image: featured.png
+categories: [SEC, IPO, regulatory process, disclosure]
+description: "**The Review of Financial Studies** (2020)"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">The Review of Financial Studies (2020)</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://doi.org/10.1093/rfs/hhaa007" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2802599" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://academic.oup.com/rfs/article/33/12/5510/5716337" class="btn btn-outline-primary" target="_blank">Published Version</a>
+<a href="sec_appendix.pdf" class="btn btn-outline-primary">Online Appendix</a>
+</div>
+
+## Abstract
+
+We examine the interactions between the SEC and companies filing for an IPO. Using hand-collected data on SEC comment letters and company responses, we document how the regulatory review process affects disclosure quality and IPO outcomes. The regulatory process reveals significant information about the quality and risks of the issuing firm.

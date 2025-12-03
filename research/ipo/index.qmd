@@ -1,0 +1,27 @@
+---
+title: "Initial Public Offering: A Synthesis of the Literature and Directions for Future Research"
+author:
+  - name: Michelle Lowry
+    equal-contributor: true
+  - name: Roni Michaely
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2017-11-01"
+categories: [IPO, literature review, finance]
+description: "Review Chapter in **Foundation and Trends in Finance** (2017)"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Foundation and Trends in Finance (2017)</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="http://dx.doi.org/10.1561/0500000050" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014572" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://www.nowpublishers.com/article/Details/FIN-050" class="btn btn-outline-primary" target="_blank">Published Version</a>
+<a href="https://github.com/volkovacodes/IPO-Review-Chapter" class="btn btn-outline-primary" target="_blank">GitHub</a>
+<a href="ipo_appendix.pdf" class="btn btn-outline-primary">Data Appendix</a>
+</div>
+
+## Abstract
+
+This review chapter provides a comprehensive synthesis of the academic literature on Initial Public Offerings (IPOs). We cover the major topics in IPO research, including underpricing, long-run performance, the role of underwriters, and the decision to go public. We also identify directions for future research in this important area of corporate finance.

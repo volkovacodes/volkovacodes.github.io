@@ -1,0 +1,25 @@
+---
+title: "Media Ownership and Ideological Slant, Evidence from Australian Newspaper Mergers"
+author:
+  - name: Maxim Ananyev
+    equal-contributor: true
+  - name: Ekaterina Volkova
+    equal-contributor: true
+date: "2024-12-31"
+categories: [media, ownership, ideology, newspapers, Australia]
+image: featured.png
+description: "**Plos One** (2024)"
+---
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Plos One (2024)</p>
+
+<div class="btn-links" style="margin: 1.5rem 0;">
+<a href="https://doi.org/10.1371/journal.pone.0315137" class="btn btn-outline-primary" target="_blank">DOI</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033851" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+</div>
+
+![](featured.png){.featured-image fig-align="center"}
+
+## Abstract
+
+This paper examines how changes in media ownership affect the ideological slant of newspapers. Using Australian newspaper mergers as natural experiments, we document how consolidation of media ownership influences news content and political discourse.

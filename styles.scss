@@ -1,0 +1,299 @@
+/*-- scss:defaults --*/
+
+// Primary color - blue theme from original site
+$primary: #1565c0;
+$link-color: $primary;
+
+// Fonts
+$body-font: Georgia, serif;
+$font-family-sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$headings-font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-monospace: "Roboto Mono", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+/*-- scss:rules --*/
+
+// Navbar styling
+.navbar {
+  font-family: $headings-font-family;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headings-font-family;
+  font-weight: 700;
+}
+
+// Custom text colors
+.text-darkred {
+  color: darkred;
+}
+
+.text-navy {
+  color: #000080;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+// Profile section styling
+.profile-section {
+  padding: 2rem 0;
+}
+
+.profile-avatar {
+  width: 270px;
+  height: 270px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.portrait-title h2 {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.portrait-title h3 {
+  font-size: 1.1rem;
+  color: #666;
+  font-weight: 400;
+}
+
+// Social icons styling
+.social-icons {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.social-icons li {
+  margin: 0;
+}
+
+.social-icons a {
+  font-size: 1.5rem;
+  color: #666;
+  transition: color 0.2s ease;
+}
+
+.social-icons a:hover {
+  color: $primary;
+}
+
+// Big icon class for academic icons
+.big-icon {
+  font-size: 1.5rem;
+}
+
+// Section styling
+.section-heading {
+  font-size: 1.75rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid $primary;
+}
+
+.home-section {
+  padding: 4rem 0;
+}
+
+// Research card styling
+.research-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.research-item:last-child {
+  border-bottom: none;
+}
+
+.research-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: $primary;
+  text-decoration: none;
+}
+
+.research-title:hover {
+  text-decoration: underline;
+}
+
+.research-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.research-abstract {
+  font-size: 0.95rem;
+  color: #333;
+  text-align: justify;
+}
+
+// Button styling
+.btn-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+}
+
+.btn-outline-primary:hover {
+  background-color: $primary;
+  color: white;
+}
+
+// Education/Interests list styling
+.ul-interests, .ul-edu {
+  list-style: none;
+  padding-left: 0;
+}
+
+.ul-interests li, .ul-edu li {
+  padding: 0.5rem 0;
+}
+
+// Contact section styling
+.contact-info {
+  font-size: 1.1rem;
+}
+
+.contact-info i {
+  color: $primary;
+  width: 2rem;
+  margin-right: 1rem;
+}
+
+// Dataset cards
+.dataset-card {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.dataset-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+// Featured image styling
+.featured-image {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+// Article styling
+.article-style {
+  text-align: justify;
+  line-height: 1.7;
+}
+
+// Badge styling for tags
+.badge {
+  font-weight: 400;
+  font-size: 0.8rem;
+  padding: 0.35rem 0.65rem;
+  margin-right: 0.25rem;
+}
+
+// Download button styling (for data pages)
+.download-btn {
+  background: linear-gradient(to bottom, #FF6B6B, #E63946);
+  color: white;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+  font-size: 1.2em;
+  padding: 10px 24px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.download-btn:hover {
+  background: linear-gradient(to bottom, #FF5050, #E62626);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: white;
+  text-decoration: none;
+}
+
+// Grid layout for profile
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+@media (max-width: 768px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+  
+  .profile-avatar {
+    margin: 0 auto;
+  }
+}
+
+// Stream item for research listings
+.stream-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.stream-item:last-child {
+  border-bottom: none;
+}
+
+.stream-item-image {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+.stream-item-image img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+@media (max-width: 576px) {
+  .stream-item {
+    flex-direction: column;
+  }
+  
+  .stream-item-image {
+    width: 100%;
+  }
+}
+
+.bio-text {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: normal;
+}

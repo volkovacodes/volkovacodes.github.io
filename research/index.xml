@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications and working paper | Kate Volkova</title>
+    <link>https://www.evolkova.info/research/</link>
+      <atom:link href="https://www.evolkova.info/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications and working paper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evolkova.info/media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications and working paper</title>
+      <link>https://www.evolkova.info/research/</link>
+    </image>
+    
+    <item>
+      <title>Corporate Lobbying of Bureaucrats</title>
+      <link>https://www.evolkova.info/research/lobby/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/lobby/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We find that 80% of companies that lobby Congress also lobby executive agencies. Although executive agencies are not beholden to companies for campaign contributions, the agencies are nevertheless influenced by lobbying: companies’ lobbying leads to more favorable rules, more special exemptions, more government contracts, and more favorable decisions on enforcement actions. Agencies’ bestowment of favors appears to be motivated by opportunities within the private sector: lobbying is significantly greater among agencies that have stronger revolving door relations with the private sector. Following a negative exogenous shock to agency power, the Supreme Court’s Chevron decision, firms engaged in agency lobbying experienced negative abnormal returns, underscoring the strategic value of lobbying agencies.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory Fragmentation</title>
+      <link>https://www.evolkova.info/research/fragmentation/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/fragmentation/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;The Journal of Finance, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evolkova.info/data/fragmentation&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:center; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Best paper award at FMARC and CAFM conferences&lt;/p&gt; 
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;  Presented at AFA, Future of Financial Information Conference, Financial Research Network (FIRN), APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.
+&lt;/p&gt;
+&lt;p style=&#34;color:darkblue; text-align:left; font-weight:bold; font-style:italic;&#34;&gt;Executive Summary&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation&lt;/strong&gt; &lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  The federal government is arguably the most influential actor in the United States economy. Its agenda includes a wide range of activities, and these activities are carried out daily by hundreds of agencies. We examine regulatory fragmentation: the extent to which the regulation of certain issues is spread across multiple agencies. For example, under current rules, climate disclosures fall under the purview of both the Securities and Exchange Commission (SEC) and the Environmental Protection Agency (EPA). As another example, firms in the financial industry must satisfy regulations by the Federal Reserve, the Treasury Department, and the CFTC, to name just a few. 
+&lt;/p&gt;  
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;  
+We document three main findings. First, there is substantial regulatory fragmentation across federal agencies in the United States. Second, regulatory fragmentation increases firms’ costs while lowering their productivity, profitability, and growth. Third, regulatory fragmentation deters entry into an industry.
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Measuring the wide range of government activities&lt;/strong&gt; 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  To quantify the government’s activities, we take advantage of the comprehensive information contained within the Federal Register (FR). The FR is the official daily publication of the federal government, and it details the activities of all the major federal agencies. Surprisingly, nearly half of the FR relates to activities other than formal rulemaking. These include lesser-known government actions such as meetings, hearings, and transactions approvals, all grouped under the inconspicuous title “notices.” This is the first quick takeaway: ignoring this component of the government’s agenda (as academic studies tend to do) would miss a significant portion of the government’s activities.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;We use machine learning techniques to categorize FR activities into 100 topics. While many past studies find an increase in government activity over time, we highlight how this trend varies across topics. For example, “Environment: data &amp; studies” has increased steadily over time, whereas “Aviation safety: inspection” has declined. Our measure also provides a unique perspective on two of the biggest shocks to the government agenda over the past 25 years: the 2008-09 financial crisis and the 2016 presidential election.  
+&lt;/p&gt;  
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+&lt;strong&gt;Regulatory Fragmentation Measure&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+We develop a measure of regulatory fragmentation, which captures the extent to which
+each individual topic is regulated by multiple federal agencies. Our measure is analogous to the Herfindahl-Hirschman Index (HHI): an issue that is regulated by only one agency is highly concentrated, and thus has the lowest possible fragmentation. We find that the least fragmented topic is “Securities: investment companies,” a highly specialized topic that is regulated by only a handful of financial agencies. In contrast, “Government Procurement: Small Businesses” is one of the most fragmented topics, handled by several dozen agencies. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+Using machine learning techniques, we identify the set of regulatory topics that are relevant to each firm, and we weight each of these topics by their relative importance to the firm. We find that regulatory fragmentation is a fundamental issue for U.S. companies. The typical firm’s business model relates to multiple regulatory topics, and each topic is spread across multiple agencies. In other words, many firms are accountable to numerous regulatory bodies. Interestingly, the firm’s regulatory fragmentation is not strongly correlated with other characteristics such as size and total regulatory burden.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  &lt;strong&gt;Real effects of regulatory fragmentation&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  We find that regulatory fragmentation is costly for firms. First, firms that face greater regulatory fragmentation have higher Sales, General, and Administrative (SG&amp;A) costs. Since these firms must answer to more government agencies, they devote more resources to government relations and to regulatory compliance. Second, firms with greater regulatory fragmentation also have lower productivity, profitability, and sales and asset growth. This evidence is consistent with the idea that an increased regulatory burden diverts resources away from more value-increasing efforts.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Next, we examine how regulatory fragmentation affects hiring policies. One possibility is that the regulatory burden reduces the net present value of potential projects, forcing companies to hire fewer people. Alternatively, companies may need to hire more people to satisfy regulatory demands. We find that the latter channel represents the dominant effect: firms with higher regulatory fragmentation have significantly higher employment expenditures.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Finally, we investigate the impact of regulatory fragmentation on industry composition. We find that higher fragmentation is associated with fewer new firms entering an industry. Moreover, it is also associated with more firms – specifically smaller firms – exiting an industry.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  &lt;strong&gt;Why is regulatory fragmentation costly to firms?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  When multiple agencies oversee the same issue, the firm faces a higher regulatory burden because it must satisfy two agencies. In the best-case scenario, the two sets of regulations are redundant. In the worst-case scenario, the two sets of regulations may be (at least partially) inconsistent with each other.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  We find that the costs of fragmentation are greatest when the firm faces more inconsistent regulations. However, even merely redundant regulations are costly: the added time and resources required to satisfy two agencies contribute to higher costs and lower growth.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;strong&gt;What leads to regulatory fragmentation?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  In the last part of the paper, we investigate possible factors that contribute to regulatory fragmentation. We find that individual regulators face a higher probability of promotion when the agency ventures into topics that are outside of its core expertise, leading to more fragmentation. This suggests that internal promotion incentives contribute to greater fragmentation.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;strong&gt;In sum&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+  Our study provides new insight into the effects of regulation on economic activity. The economic impact depends not only on the number of rules, but also on broader constructs of government activity and on how those activities are organized across different agencies. Greater regulatory fragmentation leads to significant increases in costs and significant decreases in growth and profitability.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Antitrust Enforcement Increases Economic Activity</title>
+      <link>https://www.evolkova.info/research/antitrust/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/antitrust/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;Presented at EFA, AEA and NBER SI, Boston College, the Center for Equitable Growth, Columbia University, the Department of Justice Antitrust Division, Emory University, the Entrepreneurship Junior Group Online Seminars, the Labor and Finance Group Conference, NYU WARPFIN Conference, the Stigler Center for the Study of the Economy and the State, the Stigler Center 2023 Antitrust and Competition Conference, the University of Melbourne, and the University of Warwick &lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We hand-collect and standardize information describing all 3,055 antitrust lawsuits brought by the Department of Justice (DOJ) between 1971 and 2018. Using restricted establishment-level microdata from the U.S. Census, we compare the economic outcomes of a non-tradable industry in states targeted by DOJ antitrust lawsuits to outcomes of the same industry in other states that were not targeted. We document that DOJ antitrust enforcement actions permanently increase employment by 5.4% and business formation by 4.1%. Using an event-study design, we find (1) a sharp increase in payroll that exceeds the increase in employment, meaning that DOJ antitrust enforcement increases average wages, (2) an economically smaller increase in sales that is statistically insignificant, and (3) a precise increase in the labor share. While we cannot separately measure the quantity and price of output, the increase in production inputs (employment), together with a proportionally smaller increase in sales, strongly suggests that these DOJ antitrust enforcement actions increase the quantity of output and simultaneously decrease the price of output. Our results show that government antitrust enforcement leads to persistently higher levels of economic activity in targeted industries.
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figure2_eventtime_estab.pdf&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Is Blockholder Diversity Detrimental?</title>
+      <link>https://www.evolkova.info/research/blockholders/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/blockholders/</guid>
+      <description>&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Management Science, Forthcoming&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.evolkova.info/data/blocks&#34; style=&#34;text-decoration: underline;font-size:20px;&#34;&gt;We make the data collected for this project publicly available. Check this page!&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:10px;&#34;&gt;
+    Presented at the AFA, FMA, FIRN, Frontiers of Finance, QCFC, the Bank of Israel, IE HU Workshop, Ben Gurion University, Binghamton University, Cornell University, Copenhagen Business School, Emory University, the Hebrew University of Jerusalem, Higher School of Economics, University of Hong Kong, London Business School, University of Melbourne, Michigan State University, New Economic School, and the University of Technology Sydney.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; We find that blockholder diversity, i.e., the firm shareholder base including several different types of blocks, is detrimental to firm performance. We show that lagged disclosure, on exogenous predetermined dates, that reveals an increase in block diversity is followed by a negative market reaction. Firms held by heterogeneous blockholders consistently perform worse than firms held by homogeneous blockholders. Block diversity is particularly detrimental when uncertainty is high. Disagreement among shareholders (e.g., as reflected in the frequency of lawsuits being filed) increases when the blockholder base is diverse. We make our blockholder dataset public for the benefit of other researchers.
+&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px; color:#000080;&#34;&gt;
+    &lt;strong&gt;Metaphorical Summary:&lt;/strong&gt; The image below is an illustration from a famous fable penned by the Russian poet Ivan Krylov, &#34;The Swan, the Crayfish, and the Pike.&#34; In this allegorical tale, three animals attempt to pull a wagon together. However, due to their distinct methods and conflicting directions - the swan flying upward, the crayfish crawling backward, and the pike diving into the water - they fail to move the wagon. This lack of coordination and cooperation exemplifies how a failure to align on common goals can lead to complete stagnation.
+    &lt;br&gt;
+    Similarly, in our paper, we explore the dynamics between large shareholders, or blockholders, of different types. Though these shareholders may aim to work in concert, diverging incentives and preferences often render their attempts counterproductive. This modern application of Krylov&#39;s timeless message underscores the critical importance of cohesion and aligned interests in the world of corporate finance.
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp 400w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_b20e4231093dd28b2598d0992c70e6d3.webp 760w,
+               /research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.evolkova.info/research/blockholders/krulov_hu106d1f73e8b374bc9ea5170480d22f86_409046_6e74e02ebf7d607a963ad8d05d74697e.webp&#34;
+               width=&#34;574&#34;
+               height=&#34;704&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Media Ownership and Ideological Slant, Evidence from Australian Newspaper Mergers</title>
+      <link>https://www.evolkova.info/research/au_media/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/au_media/</guid>
+      <description>&lt;p style=&#34;text-align:left; font-style:italic; font-size:16px; padding:0px;&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:0px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; This study examines how media acquisitions by corporate conglomerates influence the political slant of Australian newspapers. Using a comprehensive measure based on the language of over 30 million news articles from more than 200 newspapers, we analyze the impact of three major acquisitions between 2016 and 2019. Employing a synthetic difference-in-differences approach, we find that acquisitions can significantly shift newspapers’ political slant, with effects varying by acquiring entity. News Corp’s 2016 acquisition led to a marked conservative shift in newspapers it already owned, while subsequent acquisitions by Nine Entertainment and the acquisition of Australian Community Media by Antony Catalano and Alex Waislitz resulted in shifts away from conservative slant in acquired newspapers. Our results provide evidence for the importance of supply-side factors in determining media slant, particularly in an era of increasing media ownership concentration.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Revealed through the Regulatory Process Interactions between the SEC and Companies ahead of Their IPO</title>
+      <link>https://www.evolkova.info/research/sec_letters/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/sec_letters/</guid>
+      <description>&lt;hr&gt;
+&lt;p style=&#34;color:darkred; text-align:center; font-weight:bold; font-style:italic;&#34;&gt;Review of Financial Studies, 2020&lt;/p&gt;
+&lt;p style=&#34;text-align:left; font-size:16px; padding:10px;&#34;&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt; The regulator plays an active role in the IPO process via its pre-IPO communications with firms, writing 3.8 comment letters per company. To evaluate the regulator’s input, we analyze these communications between the SEC and firms using LDA-analysis and KL-divergence. Main topics of SEC concerns map closely into the regulator’s stated mandate: companies increase prospectus disclosures within precise topics of SEC concern. Questions related to revenue recognition are most informative about company valuation. These concerns are not independently uncovered by investors. This dynamic process of information disclosure results in increased transparency, but at a cost of delays in going public.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Watch Your Basket - To Determine CEO Compensation</title>
+      <link>https://www.evolkova.info/research/ceo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/ceo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can VPIN Forecast Geopolitical Events? An Application to the Crimean Crisis</title>
+      <link>https://www.evolkova.info/research/vpin/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/vpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial Public Offering A Synthesis of the Literature and Directions for Future Research</title>
+      <link>https://www.evolkova.info/research/ipo/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.evolkova.info/research/ipo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kate Volkova"
+  favicon: media/icon_hu2b9afbf3528877b781ecb5676e233f16_1221316_32x32_fill_lanczos_center_3.png
+  
+  navbar:
+    background: light
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: "#research"
+      - text: "Data"
+        href: "#data"
+      - text: "CV"
+        href: uploads/cv_volkova.pdf
+      - text: "Contact"
+        href: "#contact"
+      - text: "Code"
+        href: https://github.com/volkovacodes/
+        target: _blank
+      - text: "Department Page"
+        href: https://fbe.unimelb.edu.au/our-people/staff/finance/ekaterina-volkova
+        target: _blank
+    right:
+      - icon: twitter
+        href: https://twitter.com/Dr_Volkova
+        target: _blank
+      - icon: github
+        href: https://github.com/volkovacodes
+        target: _blank
+    tools:
+      - icon: moon
+        menu:
+          - text: Light
+            theme: flatly
+          - text: Dark
+            theme: darkly
+
+  page-footer:
+    left: "© 2025 Kate Volkova"
+    right:
+      - icon: twitter
+        href: https://twitter.com/Dr_Volkova
+      - icon: github
+        href: https://github.com/volkovacodes
+      - icon: linkedin
+        href: https://www.linkedin.com/in/orhahog/
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css">
+
+execute:
+  freeze: auto
