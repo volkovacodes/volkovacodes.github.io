@@ -125,7 +125,7 @@ h3 {
 }
 
 .stream-item-image img {
-  width: 350%;
+  width: 200%;
   max-width: 800px;  /* Adjust this - try 400px, 500px, or 600px */
   height: auto;
   object-fit: contain;
@@ -133,7 +133,7 @@ h3 {
 
 .stream-item {
   display: grid;
-  grid-template-columns: 3fr 2fr;  /* Text takes 3/5, image takes 2/5 */
+  grid-template-columns: 4fr 1fr;  /* Text takes 3/5, image takes 2/5 */
   gap: 2rem;
   align-items: start;
 }

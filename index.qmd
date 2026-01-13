@@ -73,9 +73,9 @@ css: styles.css
 
 ::: {.stream-item}
 ::: {.stream-item-content}
-### [Corporate Lobbying of Bureaucrats](research/lobby/index.qmd)
+### [Lobbying Congress versus Agencies](research/lobby/index.qmd)
 
-<p class="research-meta">Michelle Lowry, <strong>Ekaterina Volkova</strong> · May 2025</p>
+<p class="research-meta">Michelle Lowry, <strong>Ekaterina Volkova</strong> · January 2026 </p>
 
 <p style="color: darkred; font-weight: bold; font-style: italic;">Reject and Resubmit at The Journal of Finance</p>
 
@@ -96,7 +96,7 @@ css: styles.css
 ::: {.stream-item-content}
 ### [Antitrust Enforcement Increases Economic Activity](research/antitrust/index.qmd)
 
-<p class="research-meta">Tania Babina, Simcha Barkai, Jessica Jeffers, Ezra Karger, <strong>Ekaterina Volkova</strong> · March 2025</p>
+<p class="research-meta">Tania Babina, Simcha Barkai, Jessica Jeffers, Ezra Karger, <strong>Ekaterina Volkova</strong> · December 2025</p>
 
 <p style="color: darkred; font-weight: bold; font-style: italic;">Revise and Resubmit at American Economic Journal, Applied Economics</p>
 
@@ -120,9 +120,11 @@ css: styles.css
 ::: {.stream-item-content}
 ### [Regulatory Fragmentation](research/fragmentation/index.qmd)
 
-<p class="research-meta">Joseph Kalmenovitz, Michelle Lowry, <strong>Ekaterina Volkova</strong> · April 2025</p>
+<p class="research-meta">Joseph Kalmenovitz, Michelle Lowry, <strong>Ekaterina Volkova</strong></p>
 
-<p><strong><em>The Journal of Finance</em></strong> (2025)<br><em>Best paper award at FMARC conference</em><br><em>Best paper award at CAFM conference</em></p>
+<p style="color: darkred; font-weight: bold; font-style: italic;">Brattle Group Prize (Distinguished paper), The Journal of Finance (2025)</p>
+
+<p><em>Best paper award at FMARC conference</em><br><em>Best paper award at CAFM conference</em></p>
 
 <p style="font-style: italic; font-size: 0.9rem;">Presented at AFA, Future of Financial Information Conference, FIRN, APRCF Conference, Copenhagen Business School, the Federal Reserve, George Mason University, University of Rochester, Boston College, University of Toronto, University of Melbourne, University of Washington, Wayne State University, Florida International University, University of Bath, University of Bristol.</p>
 
