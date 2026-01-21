@@ -13,10 +13,19 @@ description: "Company-specific measure of rule relatedness for all proposed and 
 
 ![](featured.png){.featured-image fig-align="center"}
 
+
+<div style="text-align: center;">
+  <a href="https://www.dropbox.com/scl/fi/qo4qpe2zfyg9qyb63ssph/rule_relatedness_data.zip?rlkey=hcpoq2hzh74jiocvqupdpx0g9&dl=0"
+     class="download-btn">
+    Click Here to Download the Data
+  </a>
+</div>
+
+
 ## About the Measure
 
 This dataset provides company-specific measures of rule relatedness for all proposed and final rules between 1999 and 2023. The measure captures how relevant each regulatory rule is to specific companies.
 
 ### Publication
 
-We describe the construction of this data in more detail in the paper ["Corporate Lobbying of Bureaucrats"](/research/lobby/) with Michelle Lowry.
+We describe the construction of this data in more detail in the paper ["Lobbying Congress versus Agencies"](/research/lobby/) with Michelle Lowry.
