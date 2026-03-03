@@ -295,7 +295,7 @@ Company-specific measure of rule relatedness for all proposed and final rules be
 Company-year specific measure of regulatory fragmentation.
 
 <div class="btn-links">
-<a href="https://papers.ssrn. com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN</a>
 <a href="data/fragmentation/index.qmd" class="btn btn-outline-primary">Data</a>
 <a href="research/fragmentation/index.qmd" class="btn btn-outline-primary">Paper</a>
 <a href="data/fragmentation/index.qmd" class="btn btn-outline-primary">More information...</a>
