@@ -71,6 +71,24 @@ css: styles.css
 
 ## Working Papers {.section-heading}
 
+
+::: {.stream-item}
+::: {.stream-item-content}
+### [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562)
+
+<p class="research-meta">Marina Gertsberg, Michaela Pagel, <strong>Ekaterina Volkova</strong> · March 2026 </p>
+
+<div class="btn-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+</div>
+:::
+::: {.stream-item-image}
+![](research/himtoo/featured.png)
+:::
+:::
+
+
+
 ::: {.stream-item}
 ::: {.stream-item-content}
 ### [Lobbying Congress versus Agencies](research/lobby/index.qmd)
