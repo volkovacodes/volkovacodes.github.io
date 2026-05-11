@@ -14,10 +14,10 @@ author:
 date: "2025-03-10"
 categories: [antitrust, economic activity, competition, enforcement]
 image: featured.png
-description: "Revise and Resubmit at American Economic Journal, Applied Economics"
+description: "Conditionally Accepted at American Economic Journal, Applied Economics"
 ---
 
-<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Revise and Resubmit at American Economic Journal, Applied Economics</p>
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">Conditionally Accepted at American Economic Journal, Applied Economics</p>
 
 <p style="color:darkred; text-align:center; font-style:italic;">The Brattle Group FIRN Best Paper Award</p>
 

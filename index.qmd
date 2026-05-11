@@ -95,7 +95,7 @@ css: styles.css
 
 <p class="research-meta">Michelle Lowry, <strong>Ekaterina Volkova</strong> · January 2026 </p>
 
-<p style="color: darkred; font-weight: bold; font-style: italic;">Reject and Resubmit at The Journal of Finance</p>
+<p style="color: darkred; font-weight: bold; font-style: italic;">Revise and Resubmit at The Journal of Finance</p>
 
 
 <p style="font-style: italic; font-size: 0.9rem;">Presented at HKU Summer Finance Conference, Essex University, Manchester University, Lancaster University, McGill University, University of Illinois Urbana-Champaign, Sydney Banking and Financial Stability Conference</p>
@@ -116,7 +116,7 @@ css: styles.css
 
 <p class="research-meta">Tania Babina, Simcha Barkai, Jessica Jeffers, Ezra Karger, <strong>Ekaterina Volkova</strong> · December 2025</p>
 
-<p style="color: darkred; font-weight: bold; font-style: italic;">Revise and Resubmit at American Economic Journal, Applied Economics</p>
+<p style="color: darkred; font-weight: bold; font-style: italic;">Conditionally Accepted at American Economic Journal, Applied Economics</p>
 
 <p style="font-style: italic; font-size: 0.9rem;"><em>The Brattle Group FIRN Best Paper Award</em><br>Presented at EFA, AEA and NBER SI, Boston College, the Center for Equitable Growth, Columbia University, the Department of Justice Antitrust Division, Emory University, the Stigler Center, University of Melbourne, and University of Warwick.<br><a href="https://www.promarket.org/2023/09/05/antitrust-enforcement-increases-economic-activity/">Summary at Promarket</a></p>
 
