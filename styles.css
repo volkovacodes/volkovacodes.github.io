@@ -213,3 +213,209 @@ h3 {
 .navbar i {
   font-size: 1.0rem !important;  /* Smaller icons - adjust as needed */
 }
+
+/* Bio paragraphs in About section */
+.bio-text {
+  text-align: justify;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  line-height: 1.6;
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+
+.bio-text:last-child {
+  margin-bottom: 0;
+}
+
+.bio-text a {
+  color: #1565c0;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(21, 101, 192, 0.3);
+  transition: border-color 0.2s ease;
+}
+
+.bio-text a:hover {
+  border-bottom-color: #1565c0;
+}
+
+/* News section — sits between bio and conferences */
+.news-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #eef1f5;
+}
+
+.news-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #1e3a5f;
+  margin-bottom: 1.25rem;
+  font-size: 1.15rem;
+  letter-spacing: 0.02em;
+}
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.news-item {
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.55;
+  color: #333;
+  padding: 0.85rem 1rem;
+  background: #fafbfc;
+  border-left: 3px solid #1e3a5f;
+  border-radius: 0 6px 6px 0;
+}
+
+.news-item a {
+  color: #1565c0;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(21, 101, 192, 0.25);
+  transition: border-color 0.2s ease;
+}
+
+.news-item a:hover {
+  border-bottom-color: #1565c0;
+}
+
+.news-date {
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: #1e3a5f;
+  background: #e3ebf5;
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: 0.05em;
+}
+
+.brattle-prize {
+  font-weight: 700;
+  background: linear-gradient(135deg, #8a6310 0%, #c9971f 25%, #f5d77a 50%, #c9971f 75%, #8a6310 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  letter-spacing: 0.02em;
+  filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.08));
+  animation: brattleShine 6s ease-in-out infinite;
+}
+
+.spotify-icon {
+  color: #1db954;
+  font-size: 1.05em;
+  vertical-align: -0.1em;
+  margin-left: 0.15em;
+}
+
+.news-item a:has(.spotify-icon) {
+  border-bottom-color: rgba(29, 185, 84, 0.35);
+}
+
+.news-item a:has(.spotify-icon):hover {
+  border-bottom-color: #1db954;
+}
+
+@keyframes brattleShine {
+  0%, 100% { background-position: 0% center; }
+  50%      { background-position: 100% center; }
+}
+
+.news-item a.brattle-prize {
+  border-bottom: none;
+}
+
+/* Recent Conferences section — full-width below the about grid */
+.conferences-section {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #eef1f5;
+}
+
+.conferences-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #1e3a5f;
+  margin-bottom: 1.25rem;
+  font-size: 1.15rem;
+  letter-spacing: 0.02em;
+}
+
+.conferences-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.conference-year {
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #eef1f5;
+}
+
+.conference-year:last-child {
+  border-bottom: none;
+}
+
+.conference-year-label {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #1e3a5f;
+  padding-top: 0.2rem;
+}
+
+.conference-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.conference-tag,
+a.conference-tag {
+  display: inline-block;
+  background: #f0f4f8;
+  color: #1e3a5f;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  border: 1px solid #dde5ef;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+a.conference-tag:hover {
+  background: #1e3a5f;
+  color: #fff;
+  border-color: #1e3a5f;
+  text-decoration: none;
+}
+
+a.conference-tag::after {
+  content: " \2197";
+  font-size: 0.75rem;
+  opacity: 0.6;
+  margin-left: 0.15rem;
+}
+
+@media (max-width: 600px) {
+  .conference-year {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+}

@@ -19,9 +19,6 @@ css: styles.css
 
 ### Ekaterina Volkova {style="margin-top: 1rem; font-size: 1.5rem;"}
 
-#### Associate Professor, Department of Finance, The University of Melbourne {style="color: #666; font-weight: 400; font-size: 1rem;"}
-
-
 <ul class="social-icons" style="margin-top: 1.5rem;">
 <li><a href="https://ssrn.com/author=2535036" target="_blank" title="SSRN"><i class="ai ai-ssrn big-icon"></i></a></li>
 <li><a href="https://scholar.google.com/citations?user=XXLvyR4AAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar big-icon"></i></a></li>
@@ -35,31 +32,92 @@ css: styles.css
 :::
 
 ::: {.profile-content}
-<p style="text-align: justify; font-family: Georgia, serif; font-size: 20px; line-height: 1.6; font-weight: normal;">I am an Associate Professor in the Department of Finance at the Faculty of Business and Economics, University of Melbourne. My research focuses primarily on corporate governance and the oversight of publicly traded companies. In particular, my work explores the impact of large shareholders and regulators (such as the Securities and Exchange Commission and the Department of Justice) on corporate policies and dynamics. The methodologies in my papers utilize textual analysis and basic machine learning applications to extract quantitative information from textual disclosures.</p>
+<p class="bio-text">I am an Associate Professor in the Department of Finance at the Faculty of Business and Economics, University of Melbourne.</p>
 
-::: {style="margin-top: 2rem; font-family: Georgia, serif; font-size: 16px; display: grid; grid-template-columns: 1fr 2fr; gap: 2rem;"}
+<p class="bio-text">My research examines corporate governance and the politics of financial regulation, in particular, how large shareholders and regulators (such as the SEC and the Department of Justice) shape corporate policy. I use textual analysis and machine learning to extract quantitative information from corporate disclosures.</p>
 
-::: {.interests}
-#### Interests
-
-- Corporate Governance
-- Corporate Disclosure
-- Politics in Finance
-- Large Shareholders
-:::
-
-::: {.education}
-#### Education
-
-- **PhD in Finance**, 2017  
-  SC Johnson College of Business, Cornell University
-- **MA in Economics**, 2012  
-  New Economic School
-- **MS in Mathematics**, 2011  
-  Moscow State University
+<p class="bio-text">I also co-organise the <a href="https://www.acfow.com" target="_blank">Asia-Pacific Corporate Finance Online Workshop</a>, which hosts 2–3 sessions per semester for junior scholars in the region to present their work. <a href="mailto:evolkova@unimelb.edu.au">Email me</a> if you'd like to be added to the mailing list.</p>
 :::
 
 :::
+
+::: {.news-section}
+
+#### News {.news-heading}
+
+::: {.news-list}
+
+::: {.news-item}
+<span class="news-date">Mar 2026</span>
+New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562), with Marina Gertsberg and Michaela Pagel.
+:::
+
+::: {.news-item}
+<span class="news-date">Feb 2026</span>
+Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539741) (with Tania Babina, Simcha Barkai, Jessica Jeffers, and Ezra Karger) on <a href="https://open.spotify.com/episode/0f9hAHxxjFwoDeoMdaPXeU?si=roaNEL8FTGu31ZKpdOkHOg" target="_blank">The Brattle Exchange podcast <i class="bi bi-spotify spotify-icon"></i></a>, as part of the FIRN Annual Brattle Prize.
+:::
+
+::: {.news-item}
+<span class="news-date">Jan 2026</span>
+[Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.brattle-prize}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
+:::
+
+:::
+
+:::
+
+::: {.conferences-section}
+
+#### Recent Conferences {.conferences-heading}
+
+::: {.conferences-list}
+
+::: {.conference-year}
+<span class="conference-year-label">2026</span>
+<div class="conference-tags">
+<a class="conference-tag" href="uploads/conferences/2026/finance-down-under.pdf" target="_blank">Finance Down Under</a>
+<a class="conference-tag" href="uploads/conferences/2026/hku-summer-finance.pdf" target="_blank">4th HKU Summer Finance Conference</a>
+<a class="conference-tag" href="uploads/conferences/2026/uebs-edinburgh.pdf" target="_blank">UEBS Edinburgh Corporate Finance</a>
+<a class="conference-tag" href="uploads/conferences/2026/lake-district.pdf" target="_blank">Lake District Workshop in Corporate Finance</a>
+<a class="conference-tag" href="https://www.fmaconferences.org/Braga/BragaProgram.htm" target="_blank">FMA Europe</a>
+<span class="conference-tag">CICF</span>
+<span class="conference-tag">VICIF 2026</span>
+<a class="conference-tag" href="https://conference.nber.org/altsched/si26cf" target="_blank">NBER SI Corporate Finance</a>
+<span class="conference-tag">NUS RMI 19th Risk Management</span>
+<a class="conference-tag" href="https://efa2026.efa-finance.org" target="_blank">EFA</a>
+</div>
+:::
+
+::: {.conference-year}
+<span class="conference-year-label">2025</span>
+<div class="conference-tags">
+<a class="conference-tag" href="uploads/conferences/2025/finance-down-under.pdf" target="_blank">Finance Down Under</a>
+<a class="conference-tag" href="uploads/conferences/2025/future-of-financial-information.pdf" target="_blank">7th Future of Financial Information</a>
+<a class="conference-tag" href="uploads/conferences/2025/firs.pdf" target="_blank">FIRS</a>
+<span class="conference-tag">Erasmus Corporate Governance Conference</span>
+<a class="conference-tag" href="uploads/conferences/2025/efma.pdf" target="_blank">EFMA</a>
+<a class="conference-tag" href="uploads/conferences/2025/global-phd-colloquium.pdf" target="_blank">Global PhD Student Colloquium</a>
+<a class="conference-tag" href="uploads/conferences/2025/aarhus.pdf" target="_blank">Third Aarhus Workshop on Strategic Interaction in Corporate Finance</a>
+<a class="conference-tag" href="uploads/conferences/2025/efa.pdf" target="_blank">EFA</a>
+<a class="conference-tag" href="uploads/conferences/2025/politics-in-finance.pdf" target="_blank">Politics in Finance</a>
+<a class="conference-tag" href="uploads/conferences/2025/fma-asia.pdf" target="_blank">FMA Asia</a>
+</div>
+:::
+
+::: {.conference-year}
+<span class="conference-year-label">2024</span>
+<div class="conference-tags">
+<a class="conference-tag" href="uploads/conferences/2024/finance-down-under.pdf" target="_blank">Finance Down Under</a>
+<a class="conference-tag" href="uploads/conferences/2024/adam-smith-workshop.pdf" target="_blank">Adam Smith Workshop</a>
+<a class="conference-tag" href="uploads/conferences/2024/hku-summer-finance.pdf" target="_blank">2nd HKU Summer Finance Conference</a>
+<a class="conference-tag" href="https://www.nber.org/conferences/si-2024-law-and-economics" target="_blank">NBER SI Law and Economics</a>
+<a class="conference-tag" href="uploads/conferences/2024/firn-women.pdf" target="_blank">FIRN Women</a>
+<a class="conference-tag" href="uploads/conferences/2024/efa.pdf" target="_blank">EFA</a>
+<a class="conference-tag" href="uploads/conferences/2024/firn-annual.pdf" target="_blank">FIRN Annual</a>
+<a class="conference-tag" href="uploads/conferences/2024/sbfc.pdf" target="_blank">Sydney Banking and Financial Stability</a>
+</div>
+:::
+
 :::
 
 :::
