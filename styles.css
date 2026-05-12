@@ -299,6 +299,8 @@ h3 {
 }
 
 .brattle-prize {
+  position: relative;
+  display: inline-block;
   font-weight: 700;
   background: linear-gradient(135deg, #8a6310 0%, #c9971f 25%, #f5d77a 50%, #c9971f 75%, #8a6310 100%);
   background-size: 200% auto;
@@ -309,6 +311,27 @@ h3 {
   letter-spacing: 0.02em;
   filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.08));
   animation: brattleShine 6s ease-in-out infinite;
+}
+
+/* Silver sparkles scattered around the prize text (injected by JS) */
+.brattle-sparkle {
+  position: absolute;
+  font-size: 0.7em;
+  line-height: 1;
+  color: #e8ecf1;
+  -webkit-text-fill-color: #e8ecf1;
+  text-shadow:
+    0 0 4px #ffffff,
+    0 0 8px #d9dde2,
+    0 0 14px rgba(192, 197, 204, 0.75);
+  pointer-events: none;
+  opacity: 0;
+  animation: brattleSparkle 2.4s ease-in-out infinite;
+}
+
+@keyframes brattleSparkle {
+  0%, 100% { opacity: 0; transform: scale(0.3) rotate(0deg); }
+  50%      { opacity: 1; transform: scale(1.1) rotate(180deg); }
 }
 
 .spotify-icon {

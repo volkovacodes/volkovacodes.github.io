@@ -448,5 +448,25 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
+
+  // Sprinkle silver sparkles over each .brattle-prize element.
+  // Use horizontal bands so sparkles span the full text (incl. start).
+  const glyphs = ['✦', '✧', '⋆', '✩'];
+  document.querySelectorAll('.brattle-prize').forEach(el => {
+    const count = 4 + Math.floor(Math.random() * 2); // 4–5
+    for (let i = 0; i < count; i++) {
+      const s = document.createElement('span');
+      s.className = 'brattle-sparkle';
+      s.textContent = glyphs[Math.floor(Math.random() * glyphs.length)];
+      const bandStart = (i / count) * 100;
+      const bandSize = 100 / count;
+      s.style.left = (bandStart + Math.random() * bandSize) + '%';
+      s.style.top = (Math.random() * 130 - 30) + '%';
+      s.style.fontSize = (0.55 + Math.random() * 0.5).toFixed(2) + 'em';
+      s.style.animationDelay = (Math.random() * 2.4).toFixed(2) + 's';
+      s.style.animationDuration = (1.8 + Math.random() * 1.6).toFixed(2) + 's';
+      el.appendChild(s);
+    }
+  });
 });
 </script>
