@@ -80,8 +80,8 @@ Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssr
 <a class="conference-tag" href="uploads/conferences/2026/uebs-edinburgh.pdf" target="_blank">UEBS Edinburgh Corporate Finance</a>
 <a class="conference-tag" href="uploads/conferences/2026/lake-district.pdf" target="_blank">Lake District Workshop in Corporate Finance</a>
 <a class="conference-tag" href="https://www.fmaconferences.org/Braga/BragaProgram.htm" target="_blank">FMA Europe</a>
-<span class="conference-tag">CICF</span>
-<span class="conference-tag">VICIF 2026</span>
+<a class="conference-tag" href="uploads/conferences/2026/cicf.pdf" target="_blank">CICF</a>
+<a class="conference-tag" href="uploads/conferences/2026/vicif.pdf" target="_blank">VICIF 2026</a>
 <a class="conference-tag" href="https://conference.nber.org/altsched/si26cf" target="_blank">NBER SI Corporate Finance</a>
 <span class="conference-tag">NUS RMI 19th Risk Management</span>
 <a class="conference-tag" href="https://efa2026.efa-finance.org" target="_blank">EFA</a>
