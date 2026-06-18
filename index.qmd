@@ -395,7 +395,7 @@ Company-year specific measure of regulatory fragmentation.
 ::: {}
 ### [Blockholder Ownership Dataset](data/blocks/index.qmd)
 
-This dataset covers positions of all large shareholders in all US public companies from 1998 until 2023.
+This dataset covers positions of all large shareholders in all US public companies from 1998 until 2025.
 
 <div class="btn-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621939" class="btn btn-outline-primary" target="_blank">SSRN</a>
