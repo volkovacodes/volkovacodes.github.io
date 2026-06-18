@@ -1,6 +1,6 @@
 ---
 title: "Regulatory Fragmentation"
-date: "2023-01-23"
+date: "2026-06-18"
 categories: [regulations, data, government activity, regulatory fragmentation, fragmentation]
 image: featured.png
 description: "Company-year specific measure of regulatory fragmentation."
@@ -9,6 +9,8 @@ description: "Company-year specific measure of regulatory fragmentation."
 <div style="text-align: center">
 <a href="companyyear_measures.csv" class="download-btn">Click Here to Download the Data</a>
 </div>
+
+<p style="color:darkred; text-align:center; font-weight:bold; font-style:italic; font-size:28px;">Last updated in June 2026</p>
 
 <div class="btn-links" style="margin: 1.5rem 0;">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802888" class="btn btn-outline-primary" target="_blank">SSRN</a>
