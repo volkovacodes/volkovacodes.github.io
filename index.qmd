@@ -50,7 +50,7 @@ css: styles.css
 ::: {.news-item}
 <span class="news-date">Jun 2026</span>
 [Lobbying Congress versus Agencies](research/lobby/index.qmd), with Michelle Lowry, won the Best Paper Award at the [Lake District Workshop in Corporate Finance](uploads/conferences/2026/lake-district.pdf).
-[Regulatory Fragmentation](data/fragmentation/index.qmd) and [Blockholder Ownership](data/blocks/index.qmd) datasets updated through 2025.
+<br>[Regulatory Fragmentation](data/fragmentation/index.qmd) and [Blockholder Ownership](data/blocks/index.qmd) datasets updated through 2025.
 :::
 
 ::: {.news-item}
