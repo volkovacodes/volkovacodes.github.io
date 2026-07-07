@@ -56,7 +56,7 @@ css: styles.css
 
 ::: {.news-item}
 <span class="news-date">Mar 2026</span>
-New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562), with Marina Gertsberg and Michaela Pagel.
+New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel.
 :::
 
 ::: {.news-item}
@@ -139,12 +139,12 @@ Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssr
 
 ::: {.stream-item}
 ::: {.stream-item-content}
-### [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562)
+### [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832)
 
 <p class="research-meta">Marina Gertsberg, Michaela Pagel, <strong>Ekaterina Volkova</strong> · March 2026 </p>
 
 <div class="btn-links">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6438562" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
 </div>
 :::
 ::: {.stream-item-image}
