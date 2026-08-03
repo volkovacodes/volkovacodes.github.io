@@ -138,6 +138,24 @@ h3 {
   align-items: start;
 }
 
+/* Tighter vertical spacing inside the shaded research section */
+#research .stream-item {
+  margin-bottom: 0.75rem;
+}
+
+#research .stream-item-content h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+#research .stream-item-content p {
+  margin-bottom: 0.4rem;
+}
+
+#research .btn-links {
+  margin-top: 0.5rem;
+}
+
 /* Transparent navbar */
 .navbar {
   background-color: transparent !important;
