@@ -90,7 +90,7 @@ Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssr
 <a class="conference-tag" href="uploads/conferences/2026/cicf.pdf" target="_blank">CICF</a>
 <a class="conference-tag" href="uploads/conferences/2026/vicif.pdf" target="_blank">VICIF 2026</a>
 <a class="conference-tag" href="https://conference.nber.org/altsched/si26cf" target="_blank">NBER SI Corporate Finance</a>
-<span class="conference-tag">NUS RMI 19th Risk Management</span>
+<a class="conference-tag" href="uploads/conferences/2026/nus-rmi-risk-management.pdf" target="_blank">NUS RMI 19th Risk Management</a>
 <a class="conference-tag" href="https://efa2026.efa-finance.org" target="_blank">EFA</a>
 </div>
 :::
