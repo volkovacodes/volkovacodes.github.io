@@ -49,19 +49,19 @@ css: styles.css
 
 ::: {.news-item}
 <span class="news-date">Jul 2026</span>
-[Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel, won the Best Paper Award at the [VICIF 2026](uploads/conferences/2026/vicif.pdf) conference.
+🏆 [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel, won the Best Paper Award at the [VICIF 2026](uploads/conferences/2026/vicif.pdf) conference.
 :::
 
 ::: {.news-item}
 <span class="news-date">Jun 2026</span>
-[Lobbying Congress versus Agencies](research/lobby/index.qmd), with Michelle Lowry, won the Best Paper Award at the [Lake District Workshop in Corporate Finance](uploads/conferences/2026/lake-district.pdf).
+🏆 [Lobbying Congress versus Agencies](research/lobby/index.qmd), with Michelle Lowry, won the Best Paper Award at the [Lake District Workshop in Corporate Finance](uploads/conferences/2026/lake-district.pdf).
 
-[Regulatory Fragmentation](data/fragmentation/index.qmd) and [Blockholder Ownership](data/blocks/index.qmd) datasets updated through 2025.
+📊 [Regulatory Fragmentation](data/fragmentation/index.qmd) and [Blockholder Ownership](data/blocks/index.qmd) datasets updated through 2025.
 :::
 
 ::: {.news-item}
 <span class="news-date">Mar 2026</span>
-New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel.
+📝 New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel.
 :::
 
 ::: {.news-item}
@@ -71,7 +71,7 @@ Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssr
 
 ::: {.news-item}
 <span class="news-date">Jan 2026</span>
-[Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.brattle-prize}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
+🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.brattle-prize}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
 :::
 
 :::
