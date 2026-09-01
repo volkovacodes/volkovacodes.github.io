@@ -405,9 +405,9 @@ This dataset covers positions of all large shareholders in all US public compani
 <div class="btn-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621939" class="btn btn-outline-primary" target="_blank">SSRN</a>
 <a href="data/blocks/index.qmd" class="btn btn-outline-primary">Data</a>
-<a href="https://wrds-www. wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/" class="btn btn-outline-primary" target="_blank">WRDS</a>
+<a href="https://wrds-www.wharton.upenn.edu/pages/get-data/contributed-data-forms/blockholders-schwartz-ziv-volkova/" class="btn btn-outline-primary" target="_blank">WRDS</a>
 <a href="https://github.com/volkovacodes/Block_Codes" class="btn btn-outline-primary" target="_blank">GitHub</a>
-<a href="research/blockholders/index. qmd" class="btn btn-outline-primary">Paper</a>
+<a href="research/blockholders/index.qmd" class="btn btn-outline-primary">Paper</a>
 <a href="data/blocks/index.qmd" class="btn btn-outline-primary">More information...</a>
 </div>
 :::
