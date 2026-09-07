@@ -60,16 +60,6 @@ css: styles.css
 :::
 
 ::: {.news-item}
-<span class="news-date">Mar 2026</span>
-📝 New working paper [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel.
-:::
-
-::: {.news-item}
-<span class="news-date">Feb 2026</span>
-🏆 Discussed [Antitrust Enforcement Increases Economic Activity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539741) (with Tania Babina, Simcha Barkai, Jessica Jeffers, and Ezra Karger) on <a href="https://open.spotify.com/episode/0f9hAHxxjFwoDeoMdaPXeU?si=roaNEL8FTGu31ZKpdOkHOg" target="_blank">The Brattle Exchange podcast <i class="bi bi-spotify spotify-icon"></i></a>, as part of the FIRN Annual Brattle Prize.
-:::
-
-::: {.news-item}
 <span class="news-date">Jan 2026</span>
 🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.brattle-prize}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
 :::
