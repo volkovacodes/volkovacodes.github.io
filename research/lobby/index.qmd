@@ -23,7 +23,8 @@ description: "Reject and Resubmit, The Journal of Finance"
 
 
 <p style="text-align:left; font-style:italic; font-size:16px; padding:10px;">
-Presented at HKU Summer Finance Conference, Essex University, Manchester University, Lancaster University, McGill University, University of Illinois Urbana-Champaign, Sydney Banking and Financial Stability Conference, Politics and Finance Conference (Georgetown)
+Best Paper Award, Lake District Workshop in Corporate Finance 2026.<br>
+Presented at AFA 2027 (expected), EFA, CICF, Lake District Workshop in Corporate Finance, FIRS, EFMA, Future of Financial Information Conference, Aarhus Workshop on Strategic Interaction in Corporate Finance, Politics in Finance Conference (Georgetown), HKU Summer Finance Conference, Sydney Banking and Financial Stability Conference, Essex University, Manchester University, Lancaster University, McGill University, and University of Illinois Urbana-Champaign.
 </p>
 
 ## Abstract

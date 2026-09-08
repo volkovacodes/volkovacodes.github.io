@@ -138,6 +138,8 @@ css: styles.css
 
 <p class="research-meta">Marina Gertsberg, Michaela Pagel, <strong>Ekaterina Volkova</strong> · March 2026 </p>
 
+<p style="font-style: italic; font-size: 0.9rem;"><em>Best Paper Award, VICIF 2026</em><br>Presented at NBER Summer Institute Corporate Finance, VICIF, NUS RMI Risk Management Conference, and AEA 2027 (expected).</p>
+
 <div class="btn-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
 </div>
@@ -158,7 +160,7 @@ css: styles.css
 <p style="color: darkred; font-weight: bold; font-style: italic;">Revise and Resubmit at The Journal of Finance</p>
 
 
-<p style="font-style: italic; font-size: 0.9rem;">Presented at HKU Summer Finance Conference, Essex University, Manchester University, Lancaster University, McGill University, University of Illinois Urbana-Champaign, Sydney Banking and Financial Stability Conference</p>
+<p style="font-style: italic; font-size: 0.9rem;"><em>Best Paper Award, Lake District Workshop in Corporate Finance 2026</em><br>Presented at AFA 2027 (expected), EFA, CICF, Lake District Workshop in Corporate Finance, FIRS, EFMA, Future of Financial Information Conference, Aarhus Workshop on Strategic Interaction in Corporate Finance, Politics in Finance Conference (Georgetown), HKU Summer Finance Conference, Sydney Banking and Financial Stability Conference, Essex University, Manchester University, Lancaster University, McGill University, and University of Illinois Urbana-Champaign.</p>
 
 <div class="btn-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006884" class="btn btn-outline-primary" target="_blank">SSRN PDF (Free Access)</a>
