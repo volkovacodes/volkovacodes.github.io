@@ -15,8 +15,8 @@ description: "**The Journal of Finance** (2025) - Study on the effects of regula
 
 <p style="color:darkred; text-align:center; font-weight:bold; font-style:italic;">The Journal of Finance (2025)</p>
 
-<p style="text-align:center; font-style:italic;"><span class="award-highlight">Journal of Finance Brattle Prize (Distinguished Paper)</span></p>
-<p style="text-align:center; font-style:italic;"><span class="award-highlight">HKU Best Publication Award in Governance and Sustainability</span></p>
+<p style="text-align:center; font-style:italic;">Journal of Finance Brattle Prize (Distinguished Paper)</p>
+<p style="text-align:center; font-style:italic;">HKU Best Publication Award in Governance and Sustainability</p>
 <p style="text-align:center; font-style:italic;">Best paper award at FMARC conference</p>
 <p style="text-align:center; font-style:italic;">Best paper award at CAFM conference</p>
 
