@@ -66,7 +66,7 @@ css: styles.css
 
 ::: {.news-item}
 <span class="news-date">Jan 2026</span>
-🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the Journal of Finance Brattle Prize (Distinguished Paper). Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
+🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the <span class="award-highlight">Journal of Finance Brattle Prize (Distinguished Paper)</span>. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
 :::
 
 :::
@@ -207,7 +207,7 @@ css: styles.css
 
 <p class="research-meta">Joseph Kalmenovitz, Michelle Lowry, <strong>Ekaterina Volkova</strong></p>
 
-<p style="color: darkred; font-weight: bold; font-style: italic;">Brattle Group Prize (Distinguished paper), The Journal of Finance (2025)</p>
+<p style="color: darkred; font-weight: bold; font-style: italic;"><span class="award-highlight">Brattle Group Prize (Distinguished paper)</span>, The Journal of Finance (2025)</p>
 
 <p><em>Best paper award at FMARC conference</em><br><em>Best paper award at CAFM conference</em></p>
 
@@ -456,26 +456,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       });
     });
-  });
-
-  // Sprinkle silver sparkles over each .award-highlight element.
-  // Use horizontal bands so sparkles span the full text (incl. start).
-  const glyphs = ['✦', '✧', '⋆', '✩'];
-  document.querySelectorAll('.award-highlight').forEach(el => {
-    const count = 3 + Math.floor(Math.random() * 2); // 3–4
-    for (let i = 0; i < count; i++) {
-      const s = document.createElement('span');
-      s.className = 'award-sparkle';
-      s.textContent = glyphs[Math.floor(Math.random() * glyphs.length)];
-      const bandStart = (i / count) * 100;
-      const bandSize = 100 / count;
-      s.style.left = (bandStart + Math.random() * bandSize) + '%';
-      s.style.top = (Math.random() * 130 - 30) + '%';
-      s.style.fontSize = (0.55 + Math.random() * 0.5).toFixed(2) + 'em';
-      s.style.animationDelay = (Math.random() * 2.4).toFixed(2) + 's';
-      s.style.animationDuration = (1.8 + Math.random() * 1.6).toFixed(2) + 's';
-      el.appendChild(s);
-    }
   });
 });
 </script>

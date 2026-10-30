@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - award-sparkle.js
 
 website:
   title: "Kate Volkova"
@@ -66,6 +68,9 @@ format:
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css">
+    include-after-body:
+      - text: |
+          <script src="/award-sparkle.js"></script>
 
 execute:
   freeze: auto
