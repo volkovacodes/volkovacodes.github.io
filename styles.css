@@ -324,7 +324,7 @@ h3 {
   vertical-align: 0.05em;
 }
 
-.brattle-prize {
+.award-highlight {
   position: relative;
   display: inline-block;
   font-weight: 700;
@@ -336,11 +336,11 @@ h3 {
   color: transparent;
   letter-spacing: 0.02em;
   filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.08));
-  animation: brattleShine 6s ease-in-out infinite;
+  animation: awardShine 6s ease-in-out infinite;
 }
 
 /* Silver sparkles scattered around the prize text (injected by JS) */
-.brattle-sparkle {
+.award-sparkle {
   position: absolute;
   font-size: 0.7em;
   line-height: 1;
@@ -352,10 +352,10 @@ h3 {
     0 0 14px rgba(192, 197, 204, 0.75);
   pointer-events: none;
   opacity: 0;
-  animation: brattleSparkle 2.4s ease-in-out infinite;
+  animation: awardSparkle 2.4s ease-in-out infinite;
 }
 
-@keyframes brattleSparkle {
+@keyframes awardSparkle {
   0%, 100% { opacity: 0; transform: scale(0.3) rotate(0deg); }
   50%      { opacity: 1; transform: scale(1.1) rotate(180deg); }
 }
@@ -375,12 +375,12 @@ h3 {
   border-bottom-color: #1db954;
 }
 
-@keyframes brattleShine {
+@keyframes awardShine {
   0%, 100% { background-position: 0% center; }
   50%      { background-position: 100% center; }
 }
 
-.news-item a.brattle-prize {
+.news-item a.award-highlight {
   border-bottom: none;
 }
 

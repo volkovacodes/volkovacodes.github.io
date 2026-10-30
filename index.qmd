@@ -48,20 +48,25 @@ css: styles.css
 ::: {.news-list}
 
 ::: {.news-item}
+<span class="news-date">Oct 2026</span>
+🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [HKU Best Publication Award in Governance and Sustainability]{.award-highlight}, one of two inaugural awards selected from 400 eligible publications and [announced](https://www.hkubs.hku.hk/media/press-release/hku-business-school-honours-inaugural-winners-of-the-hku-best-publication-award-in-governance-and-sustainability/) at the 4th HKU Governance and Sustainability Conference.
+:::
+
+::: {.news-item}
 <span class="news-date">Jul 2026</span>
-🏆 [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel, won the Best Paper Award at the [VICIF 2026](uploads/conferences/2026/vicif.pdf) conference.
+🏆 [Him Too? Analyzing the Effects of Epstein Connections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6482832), with Marina Gertsberg and Michaela Pagel, won the [Best Paper Award]{.award-highlight} at the [VICIF 2026](uploads/conferences/2026/vicif.pdf) conference.
 :::
 
 ::: {.news-item}
 <span class="news-date">Jun 2026</span>
-🏆 [Lobbying Congress versus Agencies](research/lobby/index.qmd), with Michelle Lowry, won the Best Paper Award at the [Lake District Workshop in Corporate Finance](uploads/conferences/2026/lake-district.pdf).
+🏆 [Lobbying Congress versus Agencies](research/lobby/index.qmd), with Michelle Lowry, won the [Best Paper Award]{.award-highlight} at the [Lake District Workshop in Corporate Finance](uploads/conferences/2026/lake-district.pdf).
 
 📊 [Regulatory Fragmentation](data/fragmentation/index.qmd) and [Blockholder Ownership](data/blocks/index.qmd) datasets updated through 2025.
 :::
 
 ::: {.news-item}
 <span class="news-date">Jan 2026</span>
-🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.brattle-prize}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
+🏆 [Regulatory Fragmentation](https://onlinelibrary.wiley.com/doi/10.1111/jofi.13423) (with Joseph Kalmenovitz and Michelle Lowry) won the [Journal of Finance Brattle Prize (Distinguished Paper)]{.award-highlight}. Featured on [HKU Jockey Club](https://hkujcesgri.hku.hk/regulatory-fragmentation/) and their <a href="https://open.spotify.com/episode/1FslEOGxXRf7yH6b6kwwIN?si=CCsB3ae6QCuauU5ta8qwRQ" target="_blank">podcast <i class="bi bi-spotify spotify-icon"></i></a>.
 :::
 
 :::
@@ -453,14 +458,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  // Sprinkle silver sparkles over each .brattle-prize element.
+  // Sprinkle silver sparkles over each .award-highlight element.
   // Use horizontal bands so sparkles span the full text (incl. start).
   const glyphs = ['✦', '✧', '⋆', '✩'];
-  document.querySelectorAll('.brattle-prize').forEach(el => {
-    const count = 4 + Math.floor(Math.random() * 2); // 4–5
+  document.querySelectorAll('.award-highlight').forEach(el => {
+    const count = 3 + Math.floor(Math.random() * 2); // 3–4
     for (let i = 0; i < count; i++) {
       const s = document.createElement('span');
-      s.className = 'brattle-sparkle';
+      s.className = 'award-sparkle';
       s.textContent = glyphs[Math.floor(Math.random() * glyphs.length)];
       const bandStart = (i / count) * 100;
       const bandSize = 100 / count;
